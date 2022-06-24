@@ -27,48 +27,26 @@ function BlogConseil() {
 
       <div className="secondSectionGaranties">
         <h2 id="generalite" className="h2Global">
-          Blog : Conseil en assurance prêt
+          Conseil en assurance prêt
         </h2>
         <Sommaire
           sommaireTitle={"Sommaire"}
-          title1={"Assurance sénior"}
-          text1={" : comment la trouver"}
-          href1={"#senior"}
+          title1={"Trouver la meilleur assurance"}
+          text1={" : les conseils de nos experts"}
+          href1={"#conseil-expert"}
           title2={"Assurance emprunteur"}
-          text2={" : infos et conseils"}
-          href2={"#assurancepret"}
-          title3={"Garanties décès"}
-          text3={" : quand est-elle éxigée"}
-          href3={"#deces"}
-          title4={"Garanties invalidité long terme"}
-          text4={" : de quoi protège t-elle"}
-          href4={"#perteAutonomie"}
-          title5={"Garanties invalidité court terme"}
-          text5={" : Utiles au quotidien"}
-          href5={"#invalidite"}
-          title6={"Garanties chômage"}
-          text6={" : Une protection indispensable et obligatoire"}
-          href6={"#chomage"}
-          title7={""}
-          text7={""}
-          href7={"#test"}
+          text2={" : tout ce qu'il faut savoir"}
+          href2={"#conseil-emprunteur"}
         />
       
       <FullArticle
           title={"Assurance emprunteur : infos et conseils"}
-          h6={"Tout savoir sur l'assurance emprunteur"}
-          description={
-            <p className="paragrapheGlobal-v3">
-              Les prêts bancaires sont un excellent moyen pour pouvoir s’acheter
-              une maison ou une voiture...
-            </p>
-          }
           theme={"GÉNÉRALITÉS"}
           q={"En savoir plus"}
           src={"/assurances-pret-courtier-blog.jpg"}
           alt={""}
         >
-          <h5 className="h5Global">Infos concernant l’assurance emprunteur </h5>
+          <h5 id="conseil-expert" className="h5Global">Infos concernant l’assurance emprunteur </h5>
           <p className="paragrapheGlobal">
             Les prêts bancaires sont un excellent moyen pour pouvoir s’acheter
             une maison ou une voiture dans l’immédiat ou pour financer des
@@ -83,7 +61,7 @@ function BlogConseil() {
             rembourser son emprunt suite à une incapacité de travail ou en cas
             de mort soudaine ou de graves problèmes de santé.
           </p>
-          <p className="paragrapheGlobal">
+          <p id="conseil-emprunteur" className="paragrapheGlobal">
             Il dure généralement tout au long du crédit. Tous les mois, l’assuré
             verse des petites mensualités à son assureur qui serviront ensuite à
             rembourser le prêt contracté auprès de la banque en cas de problèmes

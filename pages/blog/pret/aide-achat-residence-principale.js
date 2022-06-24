@@ -27,31 +27,20 @@ function BlogAideFinanciere() {
 
       <div className="secondSectionGaranties">
         <h2 id="generalite" className="h2Global">
-          Blog : Assurance sénior
+          Aides financières
         </h2>
         <Sommaire
           sommaireTitle={"Sommaire"}
-          title1={"Assurance sénior"}
-          text1={" : comment la trouver"}
-          href1={"#senior"}
-          title2={"Assurance emprunteur"}
-          text2={" : infos et conseils"}
-          href2={"#assurancepret"}
-          title3={"Garanties décès"}
-          text3={" : quand est-elle éxigée"}
-          href3={"#deces"}
-          title4={"Garanties invalidité long terme"}
-          text4={" : de quoi protège t-elle"}
-          href4={"#perteAutonomie"}
-          title5={"Garanties invalidité court terme"}
-          text5={" : Utiles au quotidien"}
-          href5={"#invalidite"}
-          title6={"Garanties chômage"}
-          text6={" : Une protection indispensable et obligatoire"}
-          href6={"#chomage"}
-          title7={""}
-          text7={""}
-          href7={"#test"}
+          title1={"Aides financières"}
+          text1={" : qui peut en bénéficier? "}
+          href1={"#aide-intro"}
+          title2={"Condition"}
+          text2={" : suis-je éligible ?"}
+          href2={"#aide-eligible"}
+          title3={"Le P.A.S et les Banque"}
+          text3={" : c'est quoi exactement ? "}
+          href3={"#aide-pas"}
+
         />
 
         <FullArticle
@@ -61,7 +50,7 @@ function BlogAideFinanciere() {
           src={"/assurances-pret-blog-aide-financiere.jpg"}
           alt={""}
         >
-          <h5 className="h5Global">Pret Accession Sociale (PAS)</h5>
+          <h5 id="aide-intro" className="h5Global">Pret Accession Sociale (PAS)</h5>
           <p className="paragrapheGlobal">
             Le Pret Accession Sociale (PAS) permet aux acheteurs d’une résidence
             principale qui répondent à certains critères de bénéficier d’un
@@ -70,7 +59,7 @@ function BlogAideFinanciere() {
             frais de dossiers limités et de taux intéressants.
           </p>
 
-          <h5 className="h5Global">PAS / Conditions</h5>
+          <h5 id="aide-eligible" className="h5Global">PAS / Conditions</h5>
           <h6 className="h6Global">
             Les conditions pour bénéficier du PAS sont les suivantes :
           </h6>
@@ -88,7 +77,7 @@ function BlogAideFinanciere() {
             logement devra alors être habité au minimum 8 mois par an pendant le
             remboursement du Pret Accession Sociale.
           </p>
-          <h5 className="h5Global">PAS / Banque</h5>
+          <h5 id="aide-pas" className="h5Global">PAS / Banque</h5>
 
           <p className="paragrapheGlobal">
             Ensuite, la banque étudie la demande sur les même critères que ceux

@@ -32,53 +32,46 @@ function Senior() {
         <Sommaire
           sommaireTitle={"Sommaire"}
           title1={"Assurance sénior"}
-          text1={" : comment la trouver"}
-          href1={"#senior"}
-          title2={"Assurance emprunteur"}
-          text2={" : infos et conseils"}
-          href2={"#assurancepret"}
-          title3={"Garanties décès"}
-          text3={" : quand est-elle éxigée"}
-          href3={"#deces"}
-          title4={"Garanties invalidité long terme"}
-          text4={" : de quoi protège t-elle"}
-          href4={"#perteAutonomie"}
-          title5={"Garanties invalidité court terme"}
-          text5={" : Utiles au quotidien"}
-          href5={"#invalidite"}
-          title6={"Garanties chômage"}
-          text6={" : Une protection indispensable et obligatoire"}
-          href6={"#chomage"}
-          title7={""}
-          text7={""}
-          href7={"#test"}
+          text1={" : introduction"}
+          href1={"#senior-intro"}
+          title2={"Prêt sénior"}
+          text2={" : comment s'assurer ?"}
+          href2={"#senior-pret"}
+          title3={"Assurance plus de 60 ans"}
+          text3={" : y a t-il une limite d'age ?"}
+          href3={"#senior-age"}
+          title4={"Prêt retraité"}
+          text4={" : comment l'obtient-on ? "}
+          href4={"#senior-retraire"}
+          title5={"Accord de la banque"}
+          text5={" : Les étape à venir"}
+          href5={"#senior-accord"}
+          title6={"Profil sénior et banque"}
+          text6={" : Quel sont les profils privilégiés"}
+          href6={"#senior-profil"}
+          title7={"Mutuelle"}
+          text7={": quelles intérêt apportent-elles? "}
+          href7={"#senior-mutuelle"}
         />
       
       <FullArticle
           title={"Assurance sénior compétitive en ligne"}
-          h6={"Crédit sénior : quid de l’assurance de prêt ?"}
-          description={
-            <p className="paragrapheGlobal-v3">
-              Passé la soixantaine, trouver un crédit pour financer son projet
-              immobilier est relativement difficile...
-            </p>
-          }
           theme={"GÉNÉRALITÉS"}
           q={"En savoir plus"}
           src={"/assurance-pret-blog-senior.jpg"}
           alt={""}
         >
-          <p className="paragrapheGlobal">
+          <p id="senior-intro" className="paragrapheGlobal">
             En effet, pour bon nombre de prêteurs, l’âge est un critère
             rédhibitoire. Quand bien même les séniors arrivent à trouver un
             organisme qui conçoit à leur octroyer un prêt, ils doivent souvent
             s’acquitter d’une assurance pret senior dont le coût peut parfois
             leur revenir plus cher.
           </p>
-          <h5 className="h5Global">
+          <h5 id="senior-pret" className="h5Global">
             Assurance pret Senior : Comment s’assurer ?
           </h5>
-          <p className="paragrapheGlobal">
+          <p id="senior-age" className="paragrapheGlobal">
             Dans le cas où un risque aggravé de santé se présente, le sénior
             peut toujours prétendre aux protections classiques, à savoir la
             garantie décès et invalidité, mais en contrepartie, l’assureur peut
@@ -90,7 +83,7 @@ function Senior() {
             complications de sa maladie.
           </p>
           <h5 className="h5Global">Emprunter après 60 ans, un réel défi</h5>
-          <p className="paragrapheGlobal">
+          <p  className="paragrapheGlobal">
             Les personnes qui arrivent à l’âge de la retraite ne sont plus
             confrontées aux problèmes relatifs aux aléas de l’emploi tels que le
             chômage ou le licenciement. Ils ont aussi l’assurance de toucher un
@@ -107,7 +100,7 @@ function Senior() {
             généralement exigée et que le sénior va également rencontrer un
             certain nombre de difficultés pour s’assurer.
           </p>
-          <h5 className="h5Global">Comment obtenir un prêt retraité ?</h5>
+          <h5 id="senior-retraire" className="h5Global">Comment obtenir un prêt retraité ?</h5>
           <p className="paragrapheGlobal">
             Obtenir un crédit après 60 ans n’a plus rien d’utopique. Dans un
             contexte où l’espérance de vie est de plus en plus élevée, les
@@ -118,7 +111,7 @@ function Senior() {
             spécialisé en assurance de crédit augmente, de surcroit, ses chances
             de souscrire un contrat adapté et plus avantageux.
           </p>
-          <h5 className="h5Global">Comment obtenir un prêt retraité ?</h5>
+          <h5 id="senior-accord" className="h5Global">Quelles sont les étapes qui suivent l'accord de la banque ?</h5>
           <p className="paragrapheGlobal">
             Une fois le crédit accordé, il reste à régler la question épineuse
             de l’assurance emprunteur, un élément important pour faire aboutir
@@ -143,7 +136,7 @@ function Senior() {
             décès allant jusqu’à 90 ans. Par ailleurs, pour la plupart des
             contrats individuels, la souscription est possible jusqu’à 85 ans.
           </p>
-          <h5 className="h5Global">Comment obtenir un prêt retraité ?</h5>
+          <h5 id="senior-profil" className="h5Global">Quels sont les profils sénior que privilégient les banques</h5>
           <p className="paragrapheGlobal">
             Malgré la réticence des organismes prêteurs à accorder un crédit aux
             personnes de plus de 60 ans, les retraités peuvent concrétiser leur
@@ -177,7 +170,7 @@ function Senior() {
             Comme n’importe quel crédit, le capital et ses intérêts sont
             remboursables tous les mois.
           </p>
-          <h5 className="h5Global">
+          <h5 id="senior-mutuelle" className="h5Global">
             L’intérêt d’adhérer à une mutuelle sénior
           </h5>
           <p className="paragrapheGlobal">

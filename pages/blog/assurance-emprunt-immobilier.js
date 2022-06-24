@@ -31,39 +31,20 @@ function BlogEmprunt() {
         </h2>
         <Sommaire
           sommaireTitle={"Sommaire"}
-          title1={"Assurance sénior"}
-          text1={" : comment la trouver"}
-          href1={"#senior"}
-          title2={"Assurance emprunteur"}
-          text2={" : infos et conseils"}
-          href2={"#assurancepret"}
-          title3={"Garanties décès"}
-          text3={" : quand est-elle éxigée"}
-          href3={"#deces"}
-          title4={"Garanties invalidité long terme"}
-          text4={" : de quoi protège t-elle"}
-          href4={"#perteAutonomie"}
-          title5={"Garanties invalidité court terme"}
-          text5={" : Utiles au quotidien"}
-          href5={"#invalidite"}
-          title6={"Garanties chômage"}
-          text6={" : Une protection indispensable et obligatoire"}
-          href6={"#chomage"}
-          title7={""}
-          text7={""}
-          href7={"#test"}
+          title1={"Comparateur"}
+          text1={" : un outil indispensable"}
+          href1={"#comparateur"}
+          title2={"Loi Lagarde"}
+          text2={" : votre emprunt immobilier protégé"}
+          href2={"#lagarde"}
+          title3={"Prêt immobilier"}
+          text3={" : comment obtenir les meilleurs prix"}
+          href3={"#pret"}
         />
       
       <FullArticle
           title={
             "Comment trouver une assurance emprunt immobilier avantageuse ?"
-          }
-          h6={"Comparatif en assurance prêt : un outil indispensable"}
-          description={
-            <p className="paragrapheGlobal-v3">
-              Depuis le 1er septembre 2010, l’emprunteur a la possibilité de
-              choisir son assurance emprunt immobilier...
-            </p>
           }
           theme={"GÉNÉRALITÉS"}
           q={"En savoir plus"}
@@ -77,7 +58,7 @@ function BlogEmprunt() {
             exige une entité qui se substituera au débiteur en cas de
             défaillance de celui-ci.
           </p>
-          <p className="paragrapheGlobal">
+          <p id="lagarde" className="paragrapheGlobal">
             Une assurance emprunt immobilier protège la famille et les biens de
             l’emprunteur puisque en cas d’invalidité, de chômage ou de décès, la
             compagnie d’assurance procédera au remboursement du capital restant
@@ -100,7 +81,7 @@ function BlogEmprunt() {
             modification du taux d’emprunt ou une facturation des services liés
             à la délégation de l’emprunt immobilier assurance.
           </p>
-          <h5 className="h5Global">
+          <h5 id="pret" className="h5Global">
             Comment trouver un prêt immobilier assurance compétitive ?{" "}
           </h5>
           <p className="paragrapheGlobal">

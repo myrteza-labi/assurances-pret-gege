@@ -107,7 +107,7 @@ function Negociation() {
           performante et adaptée à votre situation actuelle. Pour ce faire, vous
           devez obtenir l’accord de votre banque puis lui communiquer votre «
           délégation d’assurance »{" "}
-          <Link href="/contact">
+          <Link href="/blog/resiliation-assurance-pret/">
             <a className="linkInText"> assurance individuelle externe. </a>
           </Link>{" "}
           Si elle accepte, la résiliation assurance pret du contrat groupe se

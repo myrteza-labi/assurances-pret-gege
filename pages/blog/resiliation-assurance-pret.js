@@ -27,48 +27,29 @@ function BlogResiliation() {
 
       <div className="secondSectionGaranties">
         <h2 id="generalite" className="h2Global">
-          Blog : Assurance sénior
+          Résiliation assurance prêt
         </h2>
         <Sommaire
           sommaireTitle={"Sommaire"}
-          title1={"Assurance sénior"}
-          text1={" : comment la trouver"}
-          href1={"#senior"}
-          title2={"Assurance emprunteur"}
+          title1={"Résiliation"}
+          text1={" : introduction"}
+          href1={"#resilitation-introduction"}
+          title2={"Comment résilier"}
           text2={" : infos et conseils"}
-          href2={"#assurancepret"}
-          title3={"Garanties décès"}
-          text3={" : quand est-elle éxigée"}
-          href3={"#deces"}
-          title4={"Garanties invalidité long terme"}
-          text4={" : de quoi protège t-elle"}
-          href4={"#perteAutonomie"}
-          title5={"Garanties invalidité court terme"}
-          text5={" : Utiles au quotidien"}
-          href5={"#invalidite"}
-          title6={"Garanties chômage"}
-          text6={" : Une protection indispensable et obligatoire"}
-          href6={"#chomage"}
-          title7={""}
-          text7={""}
-          href7={"#test"}
+          href2={"#resilitation-comment"}
+          title3={"Loi Hamon"}
+          text3={" : comment vous protège-elle?"}
+          href3={"#resiliation-hamon"}
         />
       
       <FullArticle
           title={"La résiliation assurance prêt immobilier est-elle possible ?"}
-          h6={"Résiliation et obligation de l'emprunteur"}
-          description={
-            <p className="paragrapheGlobal-v3">
-              Sous peine de nullité, votre contrat d’assurance de prêt
-              immobilier doit contenir le taux de l’assurance...
-            </p>
-          }
           theme={"GÉNÉRALITÉS"}
           q={"En savoir plus"}
           src={"/assurances-pret-blog-resiliation.jpg"}
           alt={""}
         >
-          <h5 className="h5Global">
+          <h5 id="resilitation-introduction" className="h5Global">
             À quel moment demander la résiliation assurance prêt ?
           </h5>
           <p className="paragrapheGlobal">
@@ -78,7 +59,7 @@ function BlogResiliation() {
             possible de résilier un contrat en cours, mais il faut bien du
             courage pour y arriver.
           </p>
-          <p className="paragrapheGlobal">
+          <p id="resilitation-comment" className="paragrapheGlobal">
             L’assuré a la possibilité de demander la résiliation assurance
             emprunteur soit :
             <br />
@@ -92,7 +73,7 @@ function BlogResiliation() {
           <h5 className="h5Global">
             Comment faire aboutir une résiliation assurance crédit ?{" "}
           </h5>
-          <p className="paragrapheGlobal">
+          <p id="resiliation-hamon" className="paragrapheGlobal">
             Quand le prêt est remboursé dans son intégralité, c’est l’assureur
             qui vous préviendra de la fin du contrat. Dans le cas d’un
             remboursement anticipé, vous devez en fournir la preuve à votre
@@ -107,7 +88,7 @@ function BlogResiliation() {
             stipulées dans le contrat d’assurance en ce qui concerne les motifs
             possibles de résiliation du contrat.
           </p>
-          <h5 className="h5Global">
+          <h5  className="h5Global">
             La loi Hamon : un délai d’un an pour résilier une assurance de prêt{" "}
           </h5>
           <p className="paragrapheGlobal">

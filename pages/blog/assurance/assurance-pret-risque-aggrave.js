@@ -27,31 +27,20 @@ function BlogRisqueAggrave() {
 
       <div className="secondSectionGaranties">
         <h2 id="generalite" className="h2Global">
-          Blog : Assurance sénior
+          Assurance prêt risque aggravé
         </h2>
         <Sommaire
           sommaireTitle={"Sommaire"}
-          title1={"Assurance sénior"}
-          text1={" : comment la trouver"}
-          href1={"#senior"}
-          title2={"Assurance emprunteur"}
-          text2={" : infos et conseils"}
-          href2={"#assurancepret"}
-          title3={"Garanties décès"}
-          text3={" : quand est-elle éxigée"}
-          href3={"#deces"}
-          title4={"Garanties invalidité long terme"}
-          text4={" : de quoi protège t-elle"}
-          href4={"#perteAutonomie"}
-          title5={"Garanties invalidité court terme"}
-          text5={" : Utiles au quotidien"}
-          href5={"#invalidite"}
-          title6={"Garanties chômage"}
-          text6={" : Une protection indispensable et obligatoire"}
-          href6={"#chomage"}
-          title7={""}
-          text7={""}
-          href7={"#test"}
+          title1={"Assurance prêt risque aggravé"}
+          text1={" : introduction"}
+          href1={"#risque-intro"}
+          title2={"Risque aggravé"}
+          text2={" : c'est quoi exactement"}
+          href2={"#risque-explication"}
+          title3={"Assurance et risque"}
+          text3={" : Obtenir le prêt conseils et astuces"}
+          href3={"#risque-conseil"}
+
         />
 
         <FullArticle
@@ -61,10 +50,10 @@ function BlogRisqueAggrave() {
           src={"/assurances-pret-blog-risque-aggarave.jpg"}
           alt={""}
         >
-          <h5 className="h5Global">
+          <h5 id="risque-intro"className="h5Global">
             Changer assurance prêt : une opération facile avec le bon courtier{" "}
           </h5>
-          <p className="paragrapheGlobal">
+          <p id="risque-explication" className="paragrapheGlobal">
             Quand on présente un risque aggravé aux yeux des banques il est
             difficile, voir impossible d’obtenir une assurance pret. Pourtant,
             chacun devrait pouvoir assurer son prêt afin de se garantir en cas
@@ -89,7 +78,7 @@ function BlogRisqueAggrave() {
             - Passé d’assuré négatif
             <br />
           </p>
-          <p className="paragrapheGlobal">
+          <p id="risque-conseil" className="paragrapheGlobal">
             Il n’y a pas de règle absolue, c’est l’assureur de votre prêt qui se
             fera son idée et qui décidera du niveau de risque dans lequel il
             vous classe. Quoi qu’il en soit, vous aurez un problème pour vous

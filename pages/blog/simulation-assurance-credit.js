@@ -31,46 +31,25 @@ function BlogSimulation() {
         </h2>
         <Sommaire
           sommaireTitle={"Sommaire"}
-          title1={"Assurance sénior"}
-          text1={" : comment la trouver"}
-          href1={"#senior"}
-          title2={"Assurance emprunteur"}
-          text2={" : infos et conseils"}
-          href2={"#assurancepret"}
-          title3={"Garanties décès"}
-          text3={" : quand est-elle éxigée"}
-          href3={"#deces"}
-          title4={"Garanties invalidité long terme"}
-          text4={" : de quoi protège t-elle"}
-          href4={"#perteAutonomie"}
-          title5={"Garanties invalidité court terme"}
-          text5={" : Utiles au quotidien"}
-          href5={"#invalidite"}
-          title6={"Garanties chômage"}
-          text6={" : Une protection indispensable et obligatoire"}
-          href6={"#chomage"}
-          title7={""}
-          text7={""}
-          href7={"#test"}
+          title1={"Simulation"}
+          text1={" : comparez les meilleurs assurances"}
+          href1={"#simulation-intro"}
+          title2={"Coût"}
+          text2={" : quelle sont les données à fournir"}
+          href2={"#simulation-donnes"}
+
         />
       
       <FullArticle
           title={
             "Simulation assurance crédit : un outil fiable d’aide à la décision"
           }
-          h6={"Comparatif en assurance prêt : un outil indispensable"}
-          description={
-            <p className="paragrapheGlobal-v3">
-              Depuis la possibilité pour les emprunteurs de crédit immobilier de
-              déléguer leur assurance de prêt...
-            </p>
-          }
           theme={"GÉNÉRALITÉS"}
           q={"En savoir plus"}
           src={"/assurances-pret-blog-simulation.jpg"}
           alt={""}
         >
-          <h5 className="h5Global">
+          <h5 id="simulation-intro" className="h5Global">
             L’intérêt d’une simulation assurance credit{" "}
           </h5>
           <p className="paragrapheGlobal">
@@ -85,7 +64,7 @@ function BlogSimulation() {
             Profitez des outils de simulation assurance emprunteur en ligne afin
             d’estimer le coût de votre police et trouver les meilleures offres.
           </p>
-          <p className="paragrapheGlobal">
+          <p  className="paragrapheGlobal">
             Pour procéder à une simulation assurance prêt, il suffit de
             compléter un formulaire de demande de devis en ligne. Ce document
             recense les données essentielles vous concernant. En quelques clics,
@@ -93,7 +72,7 @@ function BlogSimulation() {
             la plateforme et vous recevrez une solution sur mesure sous deux
             jours.
           </p>
-          <h5 className="h5Global">
+          <h5 id="simulation-donnes" className="h5Global">
             Quelles sont les données à fournir pour votre calcul assurance prêt
             ?{" "}
           </h5>

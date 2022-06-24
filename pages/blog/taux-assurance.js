@@ -56,13 +56,6 @@ function BlogTaux() {
       
       <FullArticle
           title={"Comment définir le taux assurance crédit ?"}
-          h6={"Devis en assurance de prêt : Un outil indispensable"}
-          description={
-            <p className="paragrapheGlobal-v3">
-              Un crédit immobilier doit toujours être assorti d’une assurance de
-              prêt...
-            </p>
-          }
           theme={"GÉNÉRALITÉS"}
           q={"En savoir plus"}
           src={"/assurances-pret-blog-taux.jpg"}

@@ -27,50 +27,31 @@ function BlogGaranties() {
 
       <div className="secondSectionGaranties">
         <h2 id="generalite" className="h2Global">
-          Blog : Assurance sénior
+          Assurance prêt garanties
         </h2>
         <Sommaire
           sommaireTitle={"Sommaire"}
-          title1={"Assurance sénior"}
-          text1={" : comment la trouver"}
-          href1={"#senior"}
-          title2={"Assurance emprunteur"}
-          text2={" : infos et conseils"}
-          href2={"#assurancepret"}
-          title3={"Garanties décès"}
-          text3={" : quand est-elle éxigée"}
-          href3={"#deces"}
-          title4={"Garanties invalidité long terme"}
-          text4={" : de quoi protège t-elle"}
-          href4={"#perteAutonomie"}
-          title5={"Garanties invalidité court terme"}
-          text5={" : Utiles au quotidien"}
-          href5={"#invalidite"}
-          title6={"Garanties chômage"}
-          text6={" : Une protection indispensable et obligatoire"}
-          href6={"#chomage"}
-          title7={""}
-          text7={""}
-          href7={"#test"}
+          title1={"Garanties"}
+          text1={" : les-quelles sont indispensable? "}
+          href1={"#garanties-introduction"}
+          title2={"Incapacite de travail"}
+          text2={" : une garantie primordiale"}
+          href2={"#garantie-incapacite"}
+          title3={"Invaladité"}
+          text3={" : ce qu'elle couvre"}
+          href3={"#garantie-invalidite"}
         />
       
       <FullArticle
           title={
             "Une garantie de prêt immobilier pour investir en toute sérénité"
           }
-          h6={"Investissement immobilier : que qu'ouvre l'assurance de prêt ? "}
-          description={
-            <p className="paragrapheGlobal-v3">
-              Une garantie de prêt est indispensable pour obtenir un financement
-              pour l’acquisition d’un bien immobilier...
-            </p>
-          }
           theme={"GÉNÉRALITÉS"}
           q={"En savoir plus"}
           src={"/assurances-pret-blog-investissement.jpg"}
           alt={""}
         >
-          <h5 className="h5Global">
+          <h5 id="garanties-introduction" className="h5Global">
             Profiter d’une totale liberté de choisir avec la délégation
             assurance pret
           </h5>
@@ -80,7 +61,7 @@ function BlogGaranties() {
             dossier de demande de prêt, la banque fera une offre préalable à
             l’emprunteur dont la validité est de 30 jours.
           </p>
-          <p className="paragrapheGlobal">
+          <p id="garantie-incapacite" className="paragrapheGlobal">
             Pendant ce délai, l’emprunteur a la possibilité de rechercher
             ailleurs une garantie de crédit moins chère, mais offrant les mêmes
             couvertures que celle proposée par la banque.
@@ -95,7 +76,7 @@ function BlogGaranties() {
             de 30, 60 ou 90 jours selon les cas. Les remboursements couvrent
             normalement 100 % du montant du versement mensuel.
           </p>
-          <p className="paragrapheGlobal">
+          <p id="garantie-invalidite" className="paragrapheGlobal">
             Dès la signature du contrat, l’assuré doit bien vérifier ce
             pourcentage de garantie ainsi que le concept d’« incapacité de
             travail » évoqué dans la garantie de pret, afin de ne pas se laisser

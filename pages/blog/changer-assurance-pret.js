@@ -27,31 +27,17 @@ function BlogChangerAssurance() {
 
       <div className="secondSectionGaranties">
         <h2 id="generalite" className="h2Global">
-          Blog : Assurance sénior
+          Changer d' assurance prêt
         </h2>
         <Sommaire
           sommaireTitle={"Sommaire"}
-          title1={"Assurance sénior"}
-          text1={" : comment la trouver"}
-          href1={"#senior"}
-          title2={"Assurance emprunteur"}
-          text2={" : infos et conseils"}
-          href2={"#assurancepret"}
-          title3={"Garanties décès"}
-          text3={" : quand est-elle éxigée"}
-          href3={"#deces"}
-          title4={"Garanties invalidité long terme"}
-          text4={" : de quoi protège t-elle"}
-          href4={"#perteAutonomie"}
-          title5={"Garanties invalidité court terme"}
-          text5={" : Utiles au quotidien"}
-          href5={"#invalidite"}
-          title6={"Garanties chômage"}
-          text6={" : Une protection indispensable et obligatoire"}
-          href6={"#chomage"}
-          title7={""}
-          text7={""}
-          href7={"#test"}
+          title1={"Assurance prêt"}
+          text1={" : peut on la changer ? "}
+          href1={"#change-itnro"}
+          title2={"Procédure à suivre"}
+          text2={" : quelles sont les démarches à éfféctuer?"}
+          href2={"#change-demarche"}
+
         />
       
       <FullArticle
@@ -61,7 +47,7 @@ function BlogChangerAssurance() {
           src={"/assurances-pret-blog-changer.jpg"}
           alt={""}
         >
-          <h5 className="h5Global">
+          <h5 id="change-itnro"className="h5Global">
             Changer assurance prêt : une opération facile avec le bon courtier{" "}
           </h5>
           <p className="paragrapheGlobal">
@@ -81,7 +67,7 @@ function BlogChangerAssurance() {
             acceptés par la banque. Dans la pratique, l’établissement bancaire
             vérifie si les conditions de garantie sont équivalentes aux siennes.
           </p>
-          <h5 className="h5Global">
+          <h5 id="change-demarche" className="h5Global">
             La procédure à suivre pour changer assurance prêt
           </h5>
           <p className="paragrapheGlobal">

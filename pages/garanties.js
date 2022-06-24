@@ -182,7 +182,7 @@ function Garanties() {
           C’est Sylvia Pinel, ancienne ministre du Logement du gouvernement de
           Manuel Valls sous François Hollande, qui est à l’origine de ce texte
           de loi. Il est entré en vigueur pour faire face à une
-          <Link href="/">
+          <Link href="/blog/garantie-pret/">
             <a className="linkInText"> grâce à un investissement locatif </a>
           </Link>
           pénurie de logements neufs mais aussi intermédiaires et sociaux,

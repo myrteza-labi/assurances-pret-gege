@@ -107,7 +107,7 @@ function Cout() {
         <p className="paragrapheGlobal">
           Il vous est possible de souscrire soit l’assurance collective de votre
           banque soit {" "} 
-          <Link href="/">
+          <Link href="/blog/assurance-emprunt-immobilier/">
             <a className="linkInText">
                une assurance individuelle de l’assureur de votre choix.
             </a>

@@ -31,46 +31,24 @@ function BlogObesite() {
         </h2>
         <Sommaire
           sommaireTitle={"Sommaire"}
-          title1={"Assurance sénior"}
-          text1={" : comment la trouver"}
-          href1={"#senior"}
-          title2={"Assurance emprunteur"}
-          text2={" : infos et conseils"}
-          href2={"#assurancepret"}
-          title3={"Garanties décès"}
-          text3={" : quand est-elle éxigée"}
-          href3={"#deces"}
-          title4={"Garanties invalidité long terme"}
-          text4={" : de quoi protège t-elle"}
-          href4={"#perteAutonomie"}
-          title5={"Garanties invalidité court terme"}
-          text5={" : Utiles au quotidien"}
-          href5={"#invalidite"}
-          title6={"Garanties chômage"}
-          text6={" : Une protection indispensable et obligatoire"}
-          href6={"#chomage"}
-          title7={""}
-          text7={""}
-          href7={"#test"}
+          title1={"Assurance et obésité"}
+          text1={" : ce qu'il faut savoir"}
+          href1={"#obesite-intro"}
+          title2={"Surpoids ou surcoût"}
+          text2={" : qu'en est-il reélement"}
+          href2={"#obesite-surcout"}
         />
       
       <FullArticle
           title={
             "Trouver une assurance avec risque de santé aggravé liée au poids"
           }
-          h6={"Comparatif en assurance prêt : un outil indispensable"}
-          description={
-            <p className="paragrapheGlobal-v3">
-              La détermination du coût d’une assurance emprunteur dépend de
-              critères personnalisés très précis...
-            </p>
-          }
           theme={"GÉNÉRALITÉS"}
           q={"En savoir plus"}
           src={"/assurances-pret-blog-obesite.jpg"}
           alt={""}
         >
-          <h5 className="h5Global">L’assurance prêt obésité</h5>
+          <h5 id="obesite-intro" className="h5Global">L’assurance prêt obésité</h5>
           <p className="paragrapheGlobal">
             La détermination du coût d’une assurance emprunteur dépend de
             critères personnalisés très précis. Certaines catégories
@@ -79,7 +57,7 @@ function BlogObesite() {
             Trouver une assurance prêt obésité peut ainsi être difficile sans
             l’aide d’un courtier spécialisé.
           </p>
-          <p className="paragrapheGlobal">
+          <p id="obesite-surcout" className="paragrapheGlobal">
             La convention AERAS ou s’Assurer et Emprunter avec un Risque Aggravé
             de Santé vise à favoriser les personnes ayant des difficultés à
             trouver une assurance. Les personnes en surcharge pondérale font
@@ -88,7 +66,7 @@ function BlogObesite() {
             conditions proposées risquent de ne pas être assez avantageuses.
           </p>
           <h5 className="h5Global">
-            La détermination du surpoids assurance prêt{" "}
+            Le surpoid : un facteur déterminant{" "}
           </h5>
           <p className="paragrapheGlobal">
             L’évaluation du risque en cas de surpoids dépend de l’Indice de

@@ -102,7 +102,7 @@ function Comparatif() {
         <p className="paragrapheGlobal">
           Pour faire simple, nous venons de le voir, la loi Pinel 2022 est un
           dispositif qui vous permet de réduire vos impôts lorsque vous
-          <Link href="/">
+          <Link href="/blog/garantie-pret/">
             <a className="linkInText">
               {" "}
               investissez dans l’immobilier locatif{" "}

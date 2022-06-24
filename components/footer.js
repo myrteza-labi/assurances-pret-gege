@@ -31,7 +31,7 @@ function Footer() {
       </ul>
       <div className="footer-link-container">
         <div className="footer-link-group">
-        <Link href="/immobilier">
+        <Link href="/selection">
           <li className="footer-link">Selection immobilière</li>
         </Link>
         <Link href="/garantie/deces-invalidite">
@@ -88,26 +88,26 @@ function Footer() {
       <div className="social-media-container">
         <div className="social-icon">
           <img
-            src="icon-facebook.png"
+            src="/icon-facebook.png"
             alt="facebook"
             className="social-image"
           />
         </div>
 
         <div className="social-icon">
-          <img src="icon-twitter.png" alt="twitter" className="social-image" />
+          <img src="/icon-twitter.png" alt="twitter" className="social-image" />
         </div>
 
         <div className="social-icon">
           <img
-            src="icon-linkedin.png"
+            src="/icon-linkedin.png"
             alt="linkedin"
             className="social-image"
           />
         </div>
 
         <div className="social-icon">
-          <img src="icon-youtube.png" alt="youtube" className="social-image" />
+          <img src="/icon-youtube.png" alt="youtube" className="social-image" />
         </div>
       </div>
     </div>

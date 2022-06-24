@@ -27,31 +27,19 @@ function BlogGaranties() {
 
       <div className="secondSectionGaranties">
         <h2 id="generalite" className="h2Global">
-          Blog : Assurance sénior
+          Garantie assurance prêt
         </h2>
         <Sommaire
           sommaireTitle={"Sommaire"}
-          title1={"Assurance sénior"}
-          text1={" : comment la trouver"}
-          href1={"#senior"}
-          title2={"Assurance emprunteur"}
-          text2={" : infos et conseils"}
-          href2={"#assurancepret"}
-          title3={"Garanties décès"}
-          text3={" : quand est-elle éxigée"}
-          href3={"#deces"}
-          title4={"Garanties invalidité long terme"}
-          text4={" : de quoi protège t-elle"}
-          href4={"#perteAutonomie"}
-          title5={"Garanties invalidité court terme"}
-          text5={" : Utiles au quotidien"}
-          href5={"#invalidite"}
-          title6={"Garanties chômage"}
-          text6={" : Une protection indispensable et obligatoire"}
-          href6={"#chomage"}
-          title7={""}
-          text7={""}
-          href7={"#test"}
+          title1={"Assurance prêt"}
+          text1={" : c'est quoi exactement"}
+          href1={"#garanties-intro"}
+          title2={"Loi Lagarde"}
+          text2={" : que garantie t-elle?"}
+          href2={"#garanties-lagarde"}
+          title3={"Comment payer moins ?"}
+          text3={" : faite jouer la concurence"}
+          href3={"#garanties-concurence"}
         />
 
         <FullArticle
@@ -61,13 +49,13 @@ function BlogGaranties() {
           src={"/assurances-pret-blog-garanties.jpg"}
           alt={""}
         >
-          <h5 className="h5Global">Qu’est-ce qu’une assurance prêt ?</h5>
+          <h5 id="garanties-intro" className="h5Global">Qu’est-ce qu’une assurance prêt ?</h5>
           <p className="paragrapheGlobal">
             De nombreux établissements bancaires n’accordent pas de crédits
             immobiliers si le candidat à l’emprunt ne souscrit pas d’assurance
             emprunteur. Voici ce que vous devez savoir pour garantir son crédit.
           </p>
-          <p className="paragrapheGlobal">
+          <p id="garanties-lagarde" className="paragrapheGlobal">
             Lorsque l’on souscrit un crédit immobilier, on s’engage sur une
             longue durée de remboursement, et les risques de ne pas être en
             mesure de payer ses mensualités de crédit immobilier sont nombreux.
@@ -87,7 +75,7 @@ function BlogGaranties() {
             souscrire cette assurance de prêt auprès de la compagnie d’assurance
             de votre choix. Il s’agit alors d’une « délégation d’assurance ».
           </p>
-          <p className="paragrapheGlobal">
+          <p id="garanties-concurence" className="paragrapheGlobal">
             L’établissement prêteur est légalement dans l’obligation d’accepter
             une délégation d’assurance dès lors que les garanties du contrat
             externalisé sont au moins équivalentes à celles du contrat

@@ -27,48 +27,27 @@ function BlogDelguation() {
 
       <div className="secondSectionGaranties">
         <h2 id="generalite" className="h2Global">
-          Blog : Assurance sénior
+          Délégation assurance prêt
         </h2>
         <Sommaire
           sommaireTitle={"Sommaire"}
-          title1={"Assurance sénior"}
-          text1={" : comment la trouver"}
-          href1={"#senior"}
-          title2={"Assurance emprunteur"}
-          text2={" : infos et conseils"}
-          href2={"#assurancepret"}
-          title3={"Garanties décès"}
-          text3={" : quand est-elle éxigée"}
-          href3={"#deces"}
-          title4={"Garanties invalidité long terme"}
-          text4={" : de quoi protège t-elle"}
-          href4={"#perteAutonomie"}
-          title5={"Garanties invalidité court terme"}
-          text5={" : Utiles au quotidien"}
-          href5={"#invalidite"}
-          title6={"Garanties chômage"}
-          text6={" : Une protection indispensable et obligatoire"}
-          href6={"#chomage"}
-          title7={""}
-          text7={""}
-          href7={"#test"}
+          title1={"Déléguation"}
+          text1={" : comment ça fonctionne?"}
+          href1={"#dele-intro"}
+          title2={"Avantage de la délaguation"}
+          text2={" : quel en sont les intêrets?"}
+          href2={"#dele-interet"}
         />
       
       <FullArticle
           title={"Délégation assurance pret moins chère"}
           h6={"Tout s'avoir sur l'assurance prêt individuelle"}
-          description={
-            <p className="paragrapheGlobal-v3">
-              La délégation assurance prêt consiste à choisir une offre
-              d’assurance de prêt moins chère...
-            </p>
-          }
           theme={"GÉNÉRALITÉS"}
           q={"En savoir plus"}
           src={"/assurances-pret-blog-cout.jpg"}
           alt={""}
         >
-          <h5 className="h5Global">
+          <h5 id="dele-intro" className="h5Global">
             Profiter d’une totale liberté de choisir avec la délégation
             assurance pret
           </h5>
@@ -94,7 +73,7 @@ function BlogDelguation() {
             doit faire l’objet d’aucune facturation et l’acceptation ou le refus
             doit être formulé dans un délai de 10 jours.
           </p>
-          <h5 className="h5Global">
+          <h5 id="dele-interet" className="h5Global">
             Quels sont les intérêts d’une délégation assurance crédit ?
           </h5>
           <p className="paragrapheGlobal">

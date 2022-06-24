@@ -30,25 +30,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/contact": [
+    "/blog/changer-assurance-pret": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/contact.js"
-    ],
-    "/cout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/cout.js"
-    ],
-    "/devis": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/devis.js"
-    ],
-    "/garanties": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/garanties.js"
+      "static/chunks/pages/blog/changer-assurance-pret.js"
     ]
   },
   "ampFirstPages": []
