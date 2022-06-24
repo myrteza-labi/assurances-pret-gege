@@ -1,0 +1,17 @@
+.menuIcon {
+    font-weight: 200;
+    font-size: 35px; 
+    color: rgb(98, 122, 147);
+    position: absolute; 
+    right: 20px; 
+    z-index: 20; 
+}
+.menuIcon:hover {
+    cursor: pointer; 
+}
+
+@media screen and (min-width: 1200px){
+    .menuIcon {
+        display: none; 
+    }
+}

@@ -1,0 +1,12 @@
+.SimpleTextBox{
+    background-color: #f1faff!important;
+    border-radius: 15px;
+
+    padding: 20px 15px;
+    color: #4e6174;
+    font-size: 1rem;
+    line-height: 1.65;
+    font-family: Fira Sans Condensed,Fira Sans,Arial,sans-serif;
+    margin: 0 0 30px;
+
+}

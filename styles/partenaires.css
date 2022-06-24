@@ -1,0 +1,133 @@
+.Partenaires{
+    background-color: #f9fafb;
+    padding: 45px 15px 0;
+    text-align: center;
+    position: relative;
+    font-family: "Fira Sans Condensed","Fira Sans",Arial,sans-serif;
+}
+
+.partenaireTitle{
+    max-width: 820px;
+    margin: 0 auto 30px;
+    font-size: 1.4rem;
+    line-height: 1.625rem;
+    color: #2a3775;
+    font-weight: 700;
+}
+
+.partenaireParagraphe{
+    font-weight: 400; 
+    color: #627a93;
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-bottom: 30px;
+}
+
+.partenaireMainLogoCtn {
+    width: 100%;
+    box-shadow: 0 4px 8px 0 rgb(172 186 200 / 10%), 0 6px 20px 0 rgb(172 186 200 / 10%); 
+    padding: 25px 0;
+    margin-bottom: 30px;
+    background-color: #fff;
+    border-radius: 15px;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.partenairesLogoContainer {
+    display: flex; 
+    flex-direction: row; 
+    justify-content: space-between; 
+    flex-wrap: wrap; 
+}
+
+.logoDivider {
+    min-height: 30px; 
+    min-width: 100%; 
+
+}
+
+.titlePartenaireLogoCtn{
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+    color: #2a3775;
+    margin-bottom: 30px;
+    font-weight: 700;
+    display: block;
+    margin: 0 0 25px;
+}
+
+.compagnieAssurancesLogo {
+    max-width: 33%; 
+    padding: 0 15px; 
+}
+.partenaireImage{
+    width: 100%; 
+}
+
+.slider-dot{
+    position: relative;
+    bottom: auto;
+    list-style: none;
+    display: block;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+
+.li-slider-dot{
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+    position: relative;
+    display: inline-block;
+    margin: 0 5px;
+    padding: 0;
+}
+
+
+.button-slider-dot:before {
+    color: #ff623e!important;
+    opacity: 0.2; 
+    font-size: 3.2rem;
+    transition: opacity .4s ease;
+    position: absolute;
+    top: 0;
+    left: 0;
+    content: "•";
+    width: 20px;
+    height: 20px;
+    font-family: slick;
+    line-height: 20px;
+}
+
+.button-slider-dot.active:before {
+    opacity: 1; 
+}
+
+.button-slider-dot {
+    cursor: pointer;
+    border: 0;
+    background: transparent;
+    display: block;
+    line-height: 0;
+    font-size: 0;
+    color: transparent;
+    padding: 5px;
+    height: 20px;
+    width: 20px;
+    -webkit-appearance: button;
+    overflow: visible;
+    text-transform: none;
+    margin: 0;
+    border-radius: 0;
+    line-height: 20px;
+    text-align: center;
+}
+
+
+
+.button-slider-dot:hover {
+    outline: none;
+}

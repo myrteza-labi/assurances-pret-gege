@@ -1,0 +1,42 @@
+.itemOnMobile{
+    display: flex; 
+    flex-direction: row; 
+    justify-content: space-between; 
+    align-items: center; 
+    background-color: #fff; 
+    margin-bottom: 20px; 
+    padding: 15px;
+    border: 0.63px solid #eaedf1;
+    border-radius: 10px; 
+    cursor: pointer; 
+    color: #627a93; 
+    box-shadow: 0 3px 8px 2px rgb(146 160 224 / 8%); 
+}
+.itemOnDesktop {
+    color: #627a93; 
+}
+.itemOnDesktop:hover {
+    color: rgb(19,172,247); 
+    cursor: pointer; 
+}
+.itemOnDesktop .material-symbols-outlined{
+    display: none; 
+}
+.itemTitle{
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 500;
+    font-size: 1rem;
+    margin: 0px 0px 5px; 
+}
+
+.devis {
+    color:#ff623e; 
+}
+
+@media screen and (min-width: 1200px){
+    .itemDevis {
+       display: flex; 
+       flex-direction: row; 
+       align-items: center; 
+    }
+}

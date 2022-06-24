@@ -1,0 +1,17 @@
+.firstSectionComparatif{
+    padding: 15px; 
+    height: 350px; 
+}
+.gegeImgFirstCompratif {
+    background-image : url('../public/assurances-pret-comparatif.png'); 
+    background-position: center;
+    min-width: 200px;
+    min-height: 300px;
+}
+
+.comparatifsGegeBottom {
+    background-image : url('../public/gege-telephone.png'); 
+    width: 300px;
+    height: 300px; 
+    margin-bottom: -200px !important; 
+}

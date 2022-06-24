@@ -1,0 +1,9 @@
+ .imagePret {
+    height: 145px; 
+    width: 145px; 
+    background-image: url('../public/assurances-pret-header.png'); 
+    background-position: bottom; 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    margin: auto; 
+ }

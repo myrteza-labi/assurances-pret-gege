@@ -1,0 +1,15 @@
+.mainDevisContainer {
+    background-color: #fff; 
+}
+
+.devisMainImageHeader {
+    height: 145px; 
+    width: 145px; 
+    background-image: url('../public/assurances-pret-devis.png'); 
+    background-position: bottom; 
+
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    margin: auto; 
+}
+

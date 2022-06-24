@@ -1,0 +1,75 @@
+.faqOnQuestionBox {
+    font-family: "Fira Sans Condensed","Fira Sans",Arial,sans-serif;
+}
+
+.faqResponseContainer {
+    display: flex; 
+    flex-direction: row; 
+    align-items: center; 
+    position: relative; 
+}
+
+.faqArrowIcon {
+    color: #627a93;
+    font-size: 32px; 
+    font-weight: 500;
+    right: 1.5625rem;
+    transform: translateY(-50%) translateX(50%);
+    position: absolute;
+    top: 50%;
+    cursor: pointer; 
+}
+
+.faqQuestion{
+    font-weight: 500;
+    cursor: pointer;
+    line-height: 1.3;
+    transition: all 0.4s ease;
+    -webkit-appearance: none;
+    padding: 9.375px 3.125rem 9.375px 0;
+    color: #627a93;
+    font-size: 1rem;
+}
+
+
+
+
+
+/*ici*/
+
+.faqAnswerContainer{
+    overflow: hidden; 
+    transition: all 0.4s ease;
+}
+
+.faqHidden{
+    max-height: 0px; 
+}
+.faqVisible{
+    max-height: 3000px; 
+}
+
+
+
+
+
+
+
+.faqAnswer{
+    margin-bottom: 1rem;
+    font-weight: 400;
+    color: #627a93;
+    font-size: 1rem;
+    line-height: 1.4;
+
+}
+
+.faqAnswerboldText{
+    font-weight: 700;
+    cursor: pointer;
+    line-height: 1.3;
+    transition: all 0.4s ease;
+    -webkit-appearance: none;
+    color: #627a93;
+    font-size: 1rem;
+}

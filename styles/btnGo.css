@@ -1,0 +1,26 @@
+.BtnGo {
+    padding: 15px; 
+    background-color: #fff; 
+    border-radius: 15px; 
+    margin-top: 30px; 
+}
+
+.btnGoDevisTitle {
+    font-weight: 500;
+    margin: 0 0 10px;
+    color: #2a3775;
+}
+
+.btnGoButton {
+    border-radius: 15px; 
+    width: 100%; 
+    font-family: Fira Sans Condensed,Fira Sans,Arial,sans-serif;
+    font-weight: 400;
+    background-image: linear-gradient(120deg, #ff623e 0%, #ff623e 51%, #ff971b 100%);
+    background-size: 200% auto;
+    color: white;
+    min-height: 60px;
+    padding: 0 30px;
+    font-size: 1.125rem;
+    border: none; 
+}

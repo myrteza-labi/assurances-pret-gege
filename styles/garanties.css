@@ -1,0 +1,52 @@
+.gegeImgFirstgaranties{
+    background-position: top; 
+    background-image: url('../public/assurances-pret-garanties.png'); 
+}
+.firstSectionGaranties {
+    height: 430px; 
+    padding: 30px 15px 15px 15px; 
+}
+
+
+.secondSectionGaranties {
+    padding: 45px 30px 0;
+}
+
+.linkInText  {
+    font-weight: 700;
+    color: #13acf7;
+    font-weight: 600; 
+}
+
+
+.gegeBottom {
+
+    background-size: contain; 
+    background-repeat: no-repeat; 
+    background-position: bottom; 
+    margin: auto; 
+}
+.garantiesGegeBottom {
+    background-image: url('../public/gege-salut-militaire.png'); 
+    height: 150px;
+    width: 200px;
+    margin-bottom: -40px; 
+
+}
+
+/*
+.gegeBottom {
+
+    background-size: contain; 
+    background-repeat: no-repeat; 
+    background-position: bottom; 
+    margin: auto; 
+    margin-bottom: -40px; 
+}
+.garantiesGegeBottom {
+    background-image: url('../public/gege-salut-militaire.png'); 
+    height: 150px;
+    width: 200px;
+}
+
+*/

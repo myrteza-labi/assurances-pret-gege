@@ -1,0 +1,89 @@
+.Cout{
+    font-family: "Fira Sans Condensed","Fira Sans",Arial,sans-serif;
+
+}
+
+
+.headerCout {
+    min-height: 150px; 
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    background-position: 50%;
+    background: linear-gradient(10deg,#0093de 15%,#00a4f7 30%,#58c4fa);
+    height: 100%;
+    width: 100%;
+    clip-path: ellipse(200% 100% at 50% 0%);
+
+}
+
+.firstSectionCout {
+    padding: 15px; 
+}
+
+
+.ImageCout {
+    height: 145px; 
+    width: 145px; 
+    background-image: url('../public/assurances-pret-cout.png'); 
+    background-position: bottom; 
+
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    margin: auto; 
+}
+
+.ImageEuro {
+    position: absolute; 
+    left: 50px; 
+    top: 20px; 
+    height: 100px; 
+    width: 100px; 
+    background-image: url('../public/assurances-pret-cout-eclat.png'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    margin: auto; 
+}
+
+.ImageEclat {
+    position: absolute; 
+    right: 40px; 
+    top: 20px; 
+    height: 60px; 
+    width: 60px; 
+    background-image: url('../public/assurances-pret-cout-euro.png'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    margin: auto; 
+    padding: 0;
+    color: #617a93;
+}
+
+.paragrapheCheckedContainer {
+    position: relative;
+    display: flex; 
+    flex-direction: row; 
+    align-items: center; 
+    margin: 10px 0;
+    line-height: 24px;
+    font-size: 14px;
+
+}
+.paragrapheChecked {
+    padding-left: 30px;
+    color: #617a93;
+    font-weight: 300; 
+}
+
+.iconCheck {
+    color: #13acf7;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.coutGegeBottom {
+    background-image: url('../public/gege-sport.png'); 
+    height: 250px; 
+    margin-bottom: -100px !important; 
+}

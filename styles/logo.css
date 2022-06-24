@@ -1,0 +1,26 @@
+.logo {
+    min-width: 100%; 
+    max-height: 100%; 
+    max-width: 100%; 
+}
+
+.logoContainer {
+    width: 150px; 
+    height: auto; 
+}
+
+
+/* TABLETTE */
+@media screen and (min-width: 768px) and (max-width: 1199px){
+    .logoContainer {
+        width: 200px; 
+    }
+}
+
+
+/* DESKTOP */
+@media screen and (min-width: 1200px){
+    .logoContainer {
+        width: 250px; 
+    }
+}

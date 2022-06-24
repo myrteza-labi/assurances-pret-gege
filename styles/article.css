@@ -1,0 +1,12 @@
+.blogImage {
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 100%;
+  border-radius: 15px;
+}
+
+
+.Article {
+  margin-bottom: 50px; 
+}
