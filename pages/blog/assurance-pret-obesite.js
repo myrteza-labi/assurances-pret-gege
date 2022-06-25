@@ -8,7 +8,7 @@ function BlogObesite() {
     <div className="garanties">
       <div className="firstSection firstSectionGaranties">
         <h1 className="h1Global">
-          Restez informé de l'actualite et économisez sur votre assurance prêt
+          Restez informé de l&#39;actualite et économisez sur votre assurance prêt
         </h1>
 
         <Link href="/devis">
@@ -48,17 +48,17 @@ function BlogObesite() {
           src={"/assurances-pret-blog-obesite.jpg"}
           alt={""}
         >
-          <h3 id="obesite-intro" className="h5Global">L’assurance prêt obésité</h3>
+          <h3 id="obesite-intro" className="h5Global">L&#39;assurance prêt obésité</h3>
           <p className="paragrapheGlobal">
-            La détermination du coût d’une assurance emprunteur dépend de
+            La détermination du coût d&#39;une assurance emprunteur dépend de
             critères personnalisés très précis. Certaines catégories
-            d’emprunteurs ont du mal à s’assurer, car elles sont sujettes à des
+            d&#39;emprunteurs ont du mal à s&#39;assurer, car elles sont sujettes à des
             problèmes de santé qui ne rassurent pas toujours les assureurs.
             Trouver une assurance prêt obésité peut ainsi être difficile sans
-            l’aide d’un courtier spécialisé.
+            l&#39;aide d&#39;un courtier spécialisé.
           </p>
           <p id="obesite-surcout" className="paragrapheGlobal">
-            La convention AERAS ou s’Assurer et Emprunter avec un Risque Aggravé
+            La convention AERAS ou s&#39;Assurer et Emprunter avec un Risque Aggravé
             de Santé vise à favoriser les personnes ayant des difficultés à
             trouver une assurance. Les personnes en surcharge pondérale font
             partie des cas présentant des « risques aggravés de santé ». De ce
@@ -69,25 +69,25 @@ function BlogObesite() {
             Le surpoid : un facteur déterminant{" "}
           </h3>
           <p className="paragrapheGlobal">
-            L’évaluation du risque en cas de surpoids dépend de l’Indice de
+            L&#39;évaluation du risque en cas de surpoids dépend de l&#39;Indice de
             Masse Corporelle (IMC). Ce critère va servir de base pour fixer les
             tarifs de la garantie emprunteur. En effet, le rapport taille- poids
             élevé informe sur une éventuelle présence de pathologies latentes ou
             à venir. Une personne obèse peut ou pourra être diabétique,
-            hypertendu ou cardiaque ou victime d’apnée du sommeil.
+            hypertendu ou cardiaque ou victime d&#39;apnée du sommeil.
           </p>
           <p className="paragrapheGlobal">
-            Chaque compagnie définit son seuil surpoids assurance prêt. Si l’IMC
-            est au-delà de la limite fixée, le médecin-expert de l’assureur
-            appliquera une surprime d’assurance selon les normes de la grille
+            Chaque compagnie définit son seuil surpoids assurance prêt. Si l&#39;IMC
+            est au-delà de la limite fixée, le médecin-expert de l&#39;assureur
+            appliquera une surprime d&#39;assurance selon les normes de la grille
             tarifaire de la compagnie.
           </p>
           <p className="paragrapheGlobal">
-            La même situation concerne les personnes anorexiques dont l’IMC est
+            La même situation concerne les personnes anorexiques dont l&#39;IMC est
             inférieur à la normale. Pour trouver une tarification intéressante
-            pour une personne souffrant d’obésité ou d’autres risques aggravés
+            pour une personne souffrant d&#39;obésité ou d&#39;autres risques aggravés
             de santé, le mieux est de se faire accompagner par un courtier en
-            produits d’assurance. Il saura trouver l’offre d’assurance prêt
+            produits d&#39;assurance. Il saura trouver l&#39;offre d&#39;assurance prêt
             obese idéale.
           </p>
           

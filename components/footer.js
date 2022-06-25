@@ -75,16 +75,16 @@ function Footer() {
           <li className="footer-link">Garantie prêt</li>
         </Link>
         <Link href="/blog/simulation-assurance-credit">
-          <li className="footer-link">Simulation d'assurance prêt</li>
+          <li className="footer-link">Simulation d&#39;assurance prêt</li>
         </Link>
         <Link href="/blog/pret/aide-achat-residence-principale">
           <li className="footer-link">Aide financière</li>
         </Link>
         <Link href="/blog/delegation-assurance-pret">
-          <li className="footer-link">Déléguation d'assurance</li>
+          <li className="footer-link">Déléguation d&#39;assurance</li>
         </Link>
         <Link href="/blog/changer-assurance-pret">
-          <li className="footer-link">Changer d'assurance prêt</li>
+          <li className="footer-link">Changer d&#39;assurance prêt</li>
         </Link>
         </ul>
 

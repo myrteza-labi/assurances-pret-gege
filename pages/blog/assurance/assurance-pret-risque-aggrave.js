@@ -8,7 +8,7 @@ function BlogRisqueAggrave() {
     <div className="garanties">
       <div className="firstSection firstSectionGaranties">
         <h1 className="h1Global">
-          Restez informé de l'actualite et économisez sur votre assurance prêt
+          Restez informé de l&#39;actualite et économisez sur votre assurance prêt
         </h1>
 
         <Link href="/devis">
@@ -55,18 +55,18 @@ function BlogRisqueAggrave() {
           </h3>
           <p id="risque-explication" className="paragrapheGlobal">
             Quand on présente un risque aggravé aux yeux des banques il est
-            difficile, voir impossible d’obtenir une assurance pret. Pourtant,
+            difficile, voir impossible d&#39;obtenir une assurance pret. Pourtant,
             chacun devrait pouvoir assurer son prêt afin de se garantir en cas
             de problème.
           </p>
           <p className="paragrapheGlobal">
-            Quand on souscrit un prêt on souhaite pouvoir l’assurer en cas de
-            problème comme la perte d’emplois, la maladie, le décès ou encore
-            l’invalidité.
+            Quand on souscrit un prêt on souhaite pouvoir l&#39;assurer en cas de
+            problème comme la perte d&#39;emplois, la maladie, le décès ou encore
+            l&#39;invalidité.
           </p>
-          <h3 className="h5Global">Qu’est ce qu’un risque aggravé ?</h3>
+          <h3 className="h5Global">Qu&#39;est ce qu&#39;un risque aggravé ?</h3>
           <p className="paragrapheGlobal">
-            Le risque aggravé c’est quand la situation de l’emprunteur présente
+            Le risque aggravé c&#39;est quand la situation de l&#39;emprunteur présente
             un niveau de risque supérieur à la normale. Par exemple dans les cas
             suivants :
           </p>
@@ -75,13 +75,13 @@ function BlogRisqueAggrave() {
             <br />
             - Age avancé
             <br />
-            - Passé d’assuré négatif
+            - Passé d&#39;assuré négatif
             <br />
           </p>
           <p id="risque-conseil" className="paragrapheGlobal">
-            Il n’y a pas de règle absolue, c’est l’assureur de votre prêt qui se
+            Il n&#39;y a pas de règle absolue, c&#39;est l&#39;assureur de votre prêt qui se
             fera son idée et qui décidera du niveau de risque dans lequel il
-            vous classe. Quoi qu’il en soit, vous aurez un problème pour vous
+            vous classe. Quoi qu&#39;il en soit, vous aurez un problème pour vous
             assurer mais il existe des solutions.
           </p>
           <h3 className="h5Global">
@@ -90,8 +90,8 @@ function BlogRisqueAggrave() {
           <p className="paragrapheGlobal">
             Vous pouvez malgré tout obtenir une assurance pour votre prêt si
             vous présentez un risque aggravé. Nous avons des solutions
-            d’assurance de prêt pour tous les niveaux de risques. Consultez nous
-            afin d’obtenir une proposition d’assurance de votre prêt adaptée à
+            d&#39;assurance de prêt pour tous les niveaux de risques. Consultez nous
+            afin d&#39;obtenir une proposition d&#39;assurance de votre prêt adaptée à
             votre situation.
           </p>
         </FullArticle>

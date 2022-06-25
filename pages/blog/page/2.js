@@ -10,7 +10,7 @@ function Blog2() {
     <div className="garanties">
       <div className="firstSection firstSectionGaranties">
         <h1 className="h1Global">
-          Restez informé de l'actualite et économisez sur votre assurance prêt
+          Restez informé de l&#39;actualite et économisez sur votre assurance prêt
         </h1>
 
         <Link href="/devis">
@@ -33,11 +33,11 @@ function Blog2() {
         </h2>
 
         <Article
-          title={"Changer d’assurance crédit en cours de remboursement"}
+          title={"Changer d&#39;assurance crédit en cours de remboursement"}
           h6={"Changer d'assurance : quand est-ce possible"}
           description={
             <p className="paragrapheGlobal-v3">
-              Dans le cadre d’un prêt immobilier, vous avez dû souscrire une
+              Dans le cadre d&#39;un prêt immobilier, vous avez dû souscrire une
               assurance de prêt...
             </p>
           }
@@ -65,11 +65,11 @@ function Blog2() {
         ></Article>
 
         <Article
-          title={"L’aide à l’achat d’une résidence principale"}
+          title={"L&#39;aide à l&#39;achat d&#39;une résidence principale"}
           h6={"Tout savoir sur les aides disponibles"}
           description={
             <p className="paragrapheGlobal-v3">
-              Le Pret Accession Sociale permet aux acheteurs d’une résidence
+              Le Pret Accession Sociale permet aux acheteurs d&#39;une résidence
               principale qui répondent...
             </p>
           }
@@ -86,7 +86,7 @@ function Blog2() {
           description={
             <p className="paragrapheGlobal-v3">
               Ensuite, la banque étudie la demande sur les même critères que
-              ceux d’une...
+              ceux d&#39;une...
             </p>
           }
           theme={"GÉNÉRALITÉS"}

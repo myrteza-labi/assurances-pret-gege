@@ -8,7 +8,7 @@ function BlogSimulation() {
     <div className="garanties">
       <div className="firstSection firstSectionGaranties">
         <h1 className="h1Global">
-          Restez informé de l'actualite et économisez sur votre assurance prêt
+          Restez informé de l&#39;actualite et économisez sur votre assurance prêt
         </h1>
 
         <Link href="/devis">
@@ -42,7 +42,7 @@ function BlogSimulation() {
       
       <FullArticle
           title={
-            "Simulation assurance crédit : un outil fiable d’aide à la décision"
+            "Simulation assurance crédit : un outil fiable d&#39;aide à la décision"
           }
           theme={"GÉNÉRALITÉS"}
           q={"En savoir plus"}
@@ -50,7 +50,7 @@ function BlogSimulation() {
           alt={""}
         >
           <h3 id="simulation-intro" className="h5Global">
-            L’intérêt d’une simulation assurance credit{" "}
+            L&#39;intérêt d&#39;une simulation assurance credit{" "}
           </h3>
           <p className="paragrapheGlobal">
             Depuis la possibilité pour les emprunteurs de crédit immobilier de
@@ -59,10 +59,10 @@ function BlogSimulation() {
             assurance crédit.
           </p>
           <p className="paragrapheGlobal">
-            Vous êtes en quête d’une assurance emprunteur efficace pour couvrir
+            Vous êtes en quête d&#39;une assurance emprunteur efficace pour couvrir
             votre crédit immobilier et acquérir enfin la maison de vos rêves ?
             Profitez des outils de simulation assurance emprunteur en ligne afin
-            d’estimer le coût de votre police et trouver les meilleures offres.
+            d&#39;estimer le coût de votre police et trouver les meilleures offres.
           </p>
           <p  className="paragrapheGlobal">
             Pour procéder à une simulation assurance prêt, il suffit de
@@ -86,10 +86,10 @@ function BlogSimulation() {
             Il faudrait donner des indications sur le projet et les détails du
             financement à assurer tels le type, le montant, la durée et le taux
             du prêt. Il est également utile de préciser si vous avez déjà
-            d’autres prêts à votre actif. Des informations sur l’identité, la
-            profession exacte et l’âge peuvent également être demandées. Les
+            d&#39;autres prêts à votre actif. Des informations sur l&#39;identité, la
+            profession exacte et l&#39;âge peuvent également être demandées. Les
             conditions de travail, le caractère fumeur ou non, la pratique
-            d’activités sportives à risques sont autant de facteurs ayant une
+            d&#39;activités sportives à risques sont autant de facteurs ayant une
             incidence sur le calcul assurance prêt.
           </p>
 

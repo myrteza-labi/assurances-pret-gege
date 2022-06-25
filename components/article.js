@@ -38,7 +38,7 @@ function Article(props) {
 
       <div className="enSavoirPlusCtn-v2">
         <a href={props.href}>
-          <p href={props.href} className="enSavoirPlus">Lire l'article</p>
+          <p href={props.href} className="enSavoirPlus">Lire l&#39;article</p>
 
         </a>
         <span className="material-symbols-outlined orange-arrow">

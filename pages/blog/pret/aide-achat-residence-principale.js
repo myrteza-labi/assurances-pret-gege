@@ -8,7 +8,7 @@ function BlogAideFinanciere() {
     <div className="garanties">
       <div className="firstSection firstSectionGaranties">
         <h1 className="h1Global">
-          Restez informé de l'actualite et économisez sur votre assurance prêt
+          Restez informé de l&#39;actualite et économisez sur votre assurance prêt
         </h1>
 
         <Link href="/devis">
@@ -44,7 +44,7 @@ function BlogAideFinanciere() {
         />
 
         <FullArticle
-          title={"L’aide à l’achat d’une résidence principale"}
+          title={"L&#39;aide à l&#39;achat d&#39;une résidence principale"}
           theme={"GÉNÉRALITÉS"}
           q={"En savoir plus"}
           src={"/assurances-pret-blog-aide-financiere.jpg"}
@@ -52,8 +52,8 @@ function BlogAideFinanciere() {
         >
           <h3 id="aide-intro" className="h5Global">Pret Accession Sociale (PAS)</h3>
           <p className="paragrapheGlobal">
-            Le Pret Accession Sociale (PAS) permet aux acheteurs d’une résidence
-            principale qui répondent à certains critères de bénéficier d’un
+            Le Pret Accession Sociale (PAS) permet aux acheteurs d&#39;une résidence
+            principale qui répondent à certains critères de bénéficier d&#39;un
             financement intéressant. Ce prêt comporte de nombreux avantages et
             notamment la possibilité de bénéficier des aides au logement, de
             frais de dossiers limités et de taux intéressants.
@@ -64,15 +64,15 @@ function BlogAideFinanciere() {
             Les conditions pour bénéficier du PAS sont les suivantes :
           </h3>
           <p className="paragrapheGlobal">
-            Il faut tout d’abord avoir la nationalité française ou être
-            titulaire d’un titre de séjour. Il faut, ensuite, avoir des revenus
+            Il faut tout d&#39;abord avoir la nationalité française ou être
+            titulaire d&#39;un titre de séjour. Il faut, ensuite, avoir des revenus
             inférieurs à certains montants. Il y a un tableau avec les plafonds
             en fonction du nombre de personnes qui composent le foyer et en
             fonction de la zone géographique dans laquelle se situe le logement.
           </p>
           <p className="paragrapheGlobal">
             Enfin, pour être bénéficiaire du PAS, il faut financer son logement
-            principal et y résider de façon permanente. Il peut aussi s’agit de
+            principal et y résider de façon permanente. Il peut aussi s&#39;agit de
             celui de son conjoint ou de ses enfants ou celle de ses parents. Le
             logement devra alors être habité au minimum 8 mois par an pendant le
             remboursement du Pret Accession Sociale.
@@ -81,15 +81,15 @@ function BlogAideFinanciere() {
 
           <p className="paragrapheGlobal">
             Ensuite, la banque étudie la demande sur les même critères que ceux
-            d’une demande de prêt immobilier classique. Le PAS est accordé pour
+            d&#39;une demande de prêt immobilier classique. Le PAS est accordé pour
             une durée de 5 à 30 ans et pour un montant minimum de 4500 euros. Il
-            peut également financer la totalité du prix de l’acquisition
+            peut également financer la totalité du prix de l&#39;acquisition
             immobilière.
           </p>
           <p className="paragrapheGlobal">
             Les établissements financiers fixent les taux du PAS mais ils ne
             doivent pas dépasser un taux maximal. Ce prêt permet de facilité
-            l’acquisition de logements et la construction de nouveaux logements
+            l&#39;acquisition de logements et la construction de nouveaux logements
             comme résidence principale.
           </p>
         </FullArticle>

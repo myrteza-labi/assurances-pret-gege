@@ -5,17 +5,17 @@ function Info() {
     <div className="Info">
       <h2 className="h4Global">Pourquoi souscrire une assurance prets ?</h2>
       <p className="paragrapheGlobal">
-        L’acquisition d’un bien immobilier nécessite la plupart du temps un
-        crédit pour pouvoir le financer. Le plus souvent indissociable d’un
-        emprunt immobilier, l’assurance prêts est un élément de garantie demandé
+        L&#39;acquisition d&#39;un bien immobilier nécessite la plupart du temps un
+        crédit pour pouvoir le financer. Le plus souvent indissociable d&#39;un
+        emprunt immobilier, l&#39;assurance prêts est un élément de garantie demandé
         par les banques.
       </p>
 
       <p className="paragrapheGlobal">
-        Un crédit engage l’emprunteur sur une longue durée. Il s’expose à
-        certains risques : maladie, accident de la vie, perte d’emploi, chômage,
-        décès, perte totale et irréversible d’autonomie … Une assurance prêts
-        permet de couvrir ces risques et protège l’emprunteur, ses proches et la
+        Un crédit engage l&#39;emprunteur sur une longue durée. Il s&#39;expose à
+        certains risques : maladie, accident de la vie, perte d&#39;emploi, chômage,
+        décès, perte totale et irréversible d&#39;autonomie … Une assurance prêts
+        permet de couvrir ces risques et protège l&#39;emprunteur, ses proches et la
         banque contre toute défaillance. Sa souscription est donc de première
         importance pour éviter toute situation difficile tout au long du crédit.{" "}
       </p>
@@ -31,13 +31,13 @@ function Info() {
           <p className="infosParagraphes">
             Exemple pour un emprunteur de 34 ans étant fumeur, salarié non cadre
             et empruntant 240 000 € sur 240 mois à un taux de 3 % : Pour
-            souscrire un contrat d’assurance décès-invalidité, l’emprunteur
-            bénéficie de : Un taux d’assurance de 0,07 % contre 0,15 % Une
+            souscrire un contrat d&#39;assurance décès-invalidité, l&#39;emprunteur
+            bénéficie de : Un taux d&#39;assurance de 0,07 % contre 0,15 % Une
             mensualité de 14 euros contre 30,63 € Un coût total de 3 360 euros
-            contre 7 371,25 € L’économie réalisée est donc de 4 011,25 € Dans le
-            cas où l’emprunteur souscrit un contrat assurance pret incluant les
-            garanties décès, PTIA, IPT, ITT, DOS, PSY, l’économie est encore
-            plus importante : Taux d’assurance de 0,14 % contre 0,34 %
+            contre 7 371,25 € L&#39;économie réalisée est donc de 4 011,25 € Dans le
+            cas où l&#39;emprunteur souscrit un contrat assurance pret incluant les
+            garanties décès, PTIA, IPT, ITT, DOS, PSY, l&#39;économie est encore
+            plus importante : Taux d&#39;assurance de 0,14 % contre 0,34 %
             Mensualité de 28 euros contre 66,41 euros Coût total de 6 720 euros
             contre 16 100,09 euros Soit une économie de 9 380,09 euros !
           </p>
@@ -50,9 +50,9 @@ function Info() {
           <h4 className="infoTitles">Métiers dangereux et sports à risque</h4>
           <p className="infosParagraphes">
             Tous les métiers sont couverts, quels que soient leur spécificité et
-            leur niveau de risque. C’est également valable pour toutes les
+            leur niveau de risque. C&#39;est également valable pour toutes les
             activités sportives, pratiquées à titre de loisir comme
-            professionnel. Et dans les deux cas, aucune surprime n’est appliquée
+            professionnel. Et dans les deux cas, aucune surprime n&#39;est appliquée
             ! Assurance prêt pilote de ligne Assurance crédit militaire
             Assurance emprunteur pompier
           </p>
@@ -63,13 +63,13 @@ function Info() {
         <div className="stepNumbersContainer">3</div>
         <div className="infoTextContainer">
           <h4 className="infoTitles">
-            Seniors : espérerez jusqu’à 15 000 euros d’économie !
+            Seniors : espérerez jusqu&#39;à 15 000 euros d&#39;économie !
           </h4>
           <p className="infosParagraphes">
             assurance pret seniorExemple pour un emprunteur senior de 64 ans,
             non fumeur et empruntant 150 000 € sur 210 mois à un taux de 2,45 %
             : Pour souscrire un contrat comportant les garanties décès, PTIA,
-            IPT et ITT, l’emprunteur bénéficie de : taux d’assurance de 0,14 %
+            IPT et ITT, l&#39;emprunteur bénéficie de : taux d&#39;assurance de 0,14 %
             contre 0,42 % mensualité de 17,50 euros contre 47,20 € coût total :
             3 675 euros contre 10 251,30 € Soit une économie de 6 576,30 euros !
           </p>
@@ -84,12 +84,12 @@ function Info() {
           </h4>
           <p className="infosParagraphes">
             Les personnes présentant un risque aggravé de santé sont le plus
-            souvent confrontés à un refus d’octroi de crédit immobilier suite à
-            un refus d’assurance de prêt. assurance prets diabète assurance
+            souvent confrontés à un refus d&#39;octroi de crédit immobilier suite à
+            un refus d&#39;assurance de prêt. assurance prets diabète assurance
             credits cancer assurance emprunteur malade Chacun peut augmenter ses
             chances de concrétiser son projet immobilier grâce à la proposition
-            d’une offre sur mesure d’un assureur partenaire capable de couvrir
-            le risque en fonction de la pathologie de l’emprunteur et ce, à un
+            d&#39;une offre sur mesure d&#39;un assureur partenaire capable de couvrir
+            le risque en fonction de la pathologie de l&#39;emprunteur et ce, à un
             bon niveau et au tarif le plus raisonnable qui puisse être.
           </p>
         </div>
@@ -105,9 +105,9 @@ function Info() {
             Pret in fine : une économie de près de 20 000 euros ! Exemple pour
             un emprunteur de 61 ans, non fumeur et empruntant 180 000 € sur 180
             mois à un taux de 2,90 % : Pour souscrire un contrat avec garanties
-            DC, PTIA, l’emprunteur bénéficie de :Un taux d’assurance de 0,30 %
+            DC, PTIA, l&#39;emprunteur bénéficie de :Un taux d&#39;assurance de 0,30 %
             contre 1,02 %Une mensualité de 45 euros contre 149,99 € Un coût
-            total de 8 100 euros contre 27 653,61 € L’économie réalisée est ici
+            total de 8 100 euros contre 27 653,61 € L&#39;économie réalisée est ici
             de 19 553,61 euros !
           </p>
         </div>
@@ -116,7 +116,7 @@ function Info() {
         Top 10 des avantages offerts par un courtier assurance prets indépendant
       </h4>
       <SimpleTextBox>
-        1. Délégation d’assurance acceptée par toutes les banques
+        1. Délégation d&#39;assurance acceptée par toutes les banques
         <br />
         2. Un interlocuteur unique et réactif
         <br />
@@ -130,18 +130,18 @@ function Info() {
         <br />
         6. Une solution pour assurer les non-résidents et expatriés
         <br />
-        7. Garantie décès jusqu’à 85 ans à l’adhésion et 90 ans au terme
+        7. Garantie décès jusqu&#39;à 85 ans à l&#39;adhésion et 90 ans au terme
         <br />
         8. Possibilité de prise en charge de la surprime médicale durant 1 an
         <br />
         9. Tarif sans surprime pour le risque de santé surpoids / sous-poids
         <br />
-        10. Le meilleur contrat d’assurance chomage pret immobilier du marché
+        10. Le meilleur contrat d&#39;assurance chomage pret immobilier du marché
         <br />
       </SimpleTextBox>
 
       <h4 className="h4Global">
-        A quel courtier s’adresser pour trouver le meilleur rapport qualité/prix
+        A quel courtier s&#39;adresser pour trouver le meilleur rapport qualité/prix
         en assurance de pret immobilier
       </h4>
 
@@ -149,8 +149,8 @@ function Info() {
         Un courtier présent sur tous les fronts ; se positionnant comme une
         référence dans le secteur des assurances de prêt, que cela soit pour les
         emprunteurs comme pour les distributeurs. Un spécialiste incontournable
-        dans son domaine qui vaut, sans aucune hésitation, la peine d’être
-        consulté pour bénéficier du plus grand nombre d’avantages !{" "}
+        dans son domaine qui vaut, sans aucune hésitation, la peine d&#39;être
+        consulté pour bénéficier du plus grand nombre d&#39;avantages !{" "}
       </p>
     </div>
   );

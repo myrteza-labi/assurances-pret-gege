@@ -10,7 +10,7 @@ function Blog() {
     <div className="garanties">
       <div className="firstSection firstSectionGaranties">
         <h1 className="h1Global">
-          Restez informé de l'actualite et économisez sur votre assurance prêt
+          Restez informé de l&#39;actualite et économisez sur votre assurance prêt
         </h1>
 
         <Link href="/devis">
@@ -34,7 +34,7 @@ function Blog() {
 
         <Article
           title={"Assurance sénior compétitive en ligne"}
-          h6={"Crédit sénior : quid de l’assurance de prêt ?"}
+          h6={"Crédit sénior : quid de l&#39;assurance de prêt ?"}
           description={
             <p className="paragrapheGlobal-v3">
               Passé la soixantaine, trouver un crédit pour financer son projet
@@ -53,7 +53,7 @@ function Blog() {
           h6={"Tout savoir sur l'assurance emprunteur"}
           description={
             <p className="paragrapheGlobal-v3">
-              Les prêts bancaires sont un excellent moyen pour pouvoir s’acheter
+              Les prêts bancaires sont un excellent moyen pour pouvoir s&#39;acheter
               une maison ou une voiture...
             </p>
           }
@@ -66,7 +66,7 @@ function Blog() {
 
         <Article
           title={
-            "Simulation assurance crédit : un outil fiable d’aide à la décision"
+            "Simulation assurance crédit : un outil fiable d&#39;aide à la décision"
           }
           h6={"Comparatif en assurance prêt : un outil indispensable"}
           description={
@@ -89,7 +89,7 @@ function Blog() {
           h6={"Comparatif en assurance prêt : un outil indispensable"}
           description={
             <p className="paragrapheGlobal-v3">
-              La détermination du coût d’une assurance emprunteur dépend de
+              La détermination du coût d&#39;une assurance emprunteur dépend de
               critères personnalisés très précis...
             </p>
           }
@@ -107,7 +107,7 @@ function Blog() {
           h6={"Comparatif en assurance prêt : un outil indispensable"}
           description={
             <p className="paragrapheGlobal-v3">
-              Depuis le 1er septembre 2010, l’emprunteur a la possibilité de
+              Depuis le 1er septembre 2010, l&#39;emprunteur a la possibilité de
               choisir son assurance emprunt immobilier...
             </p>
           }
@@ -123,8 +123,8 @@ function Blog() {
           h6={"Résiliation et obligation de l'emprunteur"}
           description={
             <p className="paragrapheGlobal-v3">
-              Sous peine de nullité, votre contrat d’assurance de prêt
-              immobilier doit contenir le taux de l’assurance...
+              Sous peine de nullité, votre contrat d&#39;assurance de prêt
+              immobilier doit contenir le taux de l&#39;assurance...
             </p>
           }
           theme={"GÉNÉRALITÉS"}
@@ -139,7 +139,7 @@ function Blog() {
           h6={"Devis en assurance de prêt : Un outil indispensable"}
           description={
             <p className="paragrapheGlobal-v3">
-              Face au large panel d’offres en matière d’assurance de prêt, le
+              Face au large panel d&#39;offres en matière d&#39;assurance de prêt, le
               mieux est de faire appel aux...
             </p>
           }
@@ -155,7 +155,7 @@ function Blog() {
           h6={"Devis en assurance de prêt : Un outil indispensable"}
           description={
             <p className="paragrapheGlobal-v3">
-              Un crédit immobilier doit toujours être assorti d’une assurance de
+              Un crédit immobilier doit toujours être assorti d&#39;une assurance de
               prêt...
             </p>
           }
@@ -172,7 +172,7 @@ function Blog() {
           description={
             <p className="paragrapheGlobal-v3">
               La délégation assurance prêt consiste à choisir une offre
-              d’assurance de prêt moins chère...
+              d&#39;assurance de prêt moins chère...
             </p>
           }
           theme={"GÉNÉRALITÉS"}
@@ -190,7 +190,7 @@ function Blog() {
           description={
             <p className="paragrapheGlobal-v3">
               Une garantie de prêt est indispensable pour obtenir un financement
-              pour l’acquisition d’un bien immobilier...
+              pour l&#39;acquisition d&#39;un bien immobilier...
             </p>
           }
           theme={"GÉNÉRALITÉS"}

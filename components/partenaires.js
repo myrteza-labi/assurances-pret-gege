@@ -4,13 +4,13 @@ function Partenaires() {
       <div className="partenairesTextContainer">
         <h3 className="partenaireTitle">Plus de 100 partenaires</h3>
         <p className="partenaireParagraphe">
-          C'est parce qu'on est le seul comparateur indépendant qu'on peut
+          C&#39;est parce qu&#39;on est le seul comparateur indépendant qu&#39;on peut
           sélectionner pour vous les meilleurs experts sur chaque produit.
         </p>
       </div>
 
       <div className="partenaireMainLogoCtn">
-        <h4 className="titlePartenaireLogoCtn">Compagnies d'assurances</h4>
+        <h4 className="titlePartenaireLogoCtn">Compagnies d&#39;assurances</h4>
 
         <div className="partenairesLogoContainer">
           <div className="compagnieAssurancesLogo">

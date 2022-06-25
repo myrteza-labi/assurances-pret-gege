@@ -19,7 +19,7 @@ function MentionsLegales() {
 
         />
         <h6 id="generale" className="h6Global">
-          Conditions Générales d'Utilisation : <br />
+          Conditions Générales d&#39;Utilisation : <br />
           Article 1. Informations légales et Préambule
         </h6>
         <p className="paragrapheGlobal">
@@ -47,9 +47,9 @@ function MentionsLegales() {
         <p className="paragrapheGlobal">
           AS DU GRAND LYON – 89 Avenue des Bruyères – 69150 DECINES – Tél :
           04.78.80.88.29 – Fax : 04.72.04.14.30 SARL au capital de 7 623 € – RCS
-          LYON 437 767 916 Enregistré à l’ORIAS sous le numéro 07 003 448
+          LYON 437 767 916 Enregistré à l&#39;ORIAS sous le numéro 07 003 448
           (www.orias.fr) en qualité de courtier en assurances (exerçant sous les
-          modalités du b de l’article L.520-1 II du code des assurances) et de
+          modalités du b de l&#39;article L.520-1 II du code des assurances) et de
           courtier en opérations de banque et en services de paiement
         </p>{" "}
         <p className="paragrapheGlobal">
@@ -62,12 +62,12 @@ function MentionsLegales() {
         <p className="paragrapheGlobal">
           Nous nous engageons à accuser réception de votre réclamation dans un
           délai de 10 jours et à y répondre dans un délai de 2 mois. Soumis au
-          contrôle de l’Autorité de Contrôle Prudentiel et de Résolution 4 Place
+          contrôle de l&#39;Autorité de Contrôle Prudentiel et de Résolution 4 Place
           de Budapest CS 92459 75436 PARIS CEDEX 09 Conformément aux articles 39
           et suivants de la loi n° 78-17 du 6 janvier 1978 modifiée en 2004
-          relative à l’informatique, aux fichiers et aux libertés, toute
+          relative à l&#39;informatique, aux fichiers et aux libertés, toute
           personne peut obtenir communication et, le cas échéant, rectification
-          ou suppression des informations la concernant, en s’adressant à : AS
+          ou suppression des informations la concernant, en s&#39;adressant à : AS
           DU GRAND LYON – 89 Avenue des Bruyères – 69150 DECINES – Tél :
           04.78.80.88.29 – Email : contact@ascourtage.fr
         </p>
@@ -82,41 +82,41 @@ function MentionsLegales() {
           Le site du courtier as du grand lyon est déclaré auprès de la
           Commission Nationale Informatique et libertés (CNIL-France) en
           application de la loi n°78-17 du 6 janvier 1978 modifiée relative à
-          l’informatique, aux fichiers et aux libertés.
+          l&#39;informatique, aux fichiers et aux libertés.
         </p>{" "}
         <p className="paragrapheGlobal">
-          Conformément à l’article 27 de la loi Informatique et libertés du 6
+          Conformément à l&#39;article 27 de la loi Informatique et libertés du 6
           janvier 1978, As Du Grand Lyon vous informe que les données
-          personnelles recueillies sur son site font l’objet de traitements
+          personnelles recueillies sur son site font l&#39;objet de traitements
           automatisés.
         </p>
         <p className="paragrapheGlobal">
           Conformément aux articles 39 et suivants de la loi n° 78-17 du 6
-          janvier 1978 modifiée en 2004 relative à l’informatique, aux fichiers
+          janvier 1978 modifiée en 2004 relative à l&#39;informatique, aux fichiers
           et aux libertés, toute personne peut obtenir communication et, le cas
           échéant, rectification ou suppression des informations la concernant,
-          en s’adressant à : AS DU GRAND LYON – 89 Avenue des Bruyères – 69150
+          en s&#39;adressant à : AS DU GRAND LYON – 89 Avenue des Bruyères – 69150
           DECINES – Tél : 04.78.80.88.29 – Email : contact@ascourtage.fr{" "}
         </p>
         <p className="paragrapheGlobal">
           {" "}
-          Les Données sont collectées lors de l’envoi d’un formulaire en ligne
-          de demande d’informations concernant l’assurance de pret, et les
+          Les Données sont collectées lors de l&#39;envoi d&#39;un formulaire en ligne
+          de demande d&#39;informations concernant l&#39;assurance de pret, et les
           demandes relatives à votre dossier client. Notre formulaire comprend
           des champs obligatoires requis pour le traitement le plus juste de
           votre demande.
         </p>{" "}
         <SimpleTextBox>
-          Enregistré à l’ORIAS sous le numéro 07 003 448 (www.orias.fr) en
+          Enregistré à l&#39;ORIAS sous le numéro 07 003 448 (www.orias.fr) en
           qualité de courtier en assurances (exerçant sous les modalités du b de
-          l’article L.520-1 II du code des assurances)
+          l&#39;article L.520-1 II du code des assurances)
         </SimpleTextBox>
         <h6 id="partenariat" className="h6Global">Les partenariat</h6>
         <p className="paragrapheGlobal">
           {" "}
-          Les organismes partenaires du courtier (compagnies d’assurance)
+          Les organismes partenaires du courtier (compagnies d&#39;assurance)
           exigent certains renseignements pour proposer le meilleur taux
-          d’assurance crédit. La collecte des informations a pour but de
+          d&#39;assurance crédit. La collecte des informations a pour but de
           répondre le plus précisément à votre demande et de fournir une offre
           adaptée à votre profil emprunteur. Société éditrice du site : CABINET
           AS DU GRAND LYON BP 206 69152 DECINES Cedex Tél : 04 78 80 88 29 – Fax
