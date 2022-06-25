@@ -90,7 +90,8 @@
 
     }
     .product {
-        min-width: 170px; 
+        min-width: auto; 
+        max-width: 165px; 
     }
     .product2 {
         max-width: 800px; 
