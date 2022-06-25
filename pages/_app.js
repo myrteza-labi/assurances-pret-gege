@@ -48,11 +48,16 @@ import '../styles/changer-assurance-pret.css';
 import '../styles/assurance-pret-risque-aggrave.css'; 
 import '../styles/aide-achat-residence-principale.css'; 
 import '../styles/comment-garantir-son-credit-immobilier.css'; 
+import Head from 'next/head'
 
 
 function MyApp({ Component, pageProps }) {
   return (
     <div>
+            <Head>
+        <title>Assurances pret</title>
+        
+      </Head>
       <Header/>
     <Component {...pageProps} />
     <Footer/>

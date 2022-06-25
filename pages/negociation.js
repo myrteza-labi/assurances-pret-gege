@@ -11,9 +11,9 @@ function Negociation() {
     <div className="garanties">
       <div className="firstSection firstSectionGaranties">
         <h1 className="h1Global">Comparez et économisez facilement </h1>
-        <h3 className="h3Global">
+        <h2 className="h3Global">
           Un comparateur rapide et gratuit à votre service
-        </h3>
+        </h2>
 
         <BtnGo
           btnText={"Obtenir un devis un 10 minutes"}
@@ -26,7 +26,7 @@ function Negociation() {
       </div>
 
       <div className="secondSectionGaranties">
-        <h2 id="generalite" className="h2Global">Bien gérer la négociation assurance pret</h2>
+        <h3 id="generalite" className="h2Global">Bien gérer la négociation assurance pret</h3>
         <Sommaire
           sommaireTitle={"Sommaire"}
           title1={"Négociation"}
@@ -81,7 +81,7 @@ function Negociation() {
           ajouter au contrat, les delais, Ont des paramètres à mettre en place
           avant la signature du contrat.
         </SimpleTextBox>
-        <h6 id="groupe" className="h6Global">Ce qu'il faut savoir</h6>
+        <h4 id="groupe" className="h6Global">Ce qu'il faut savoir</h4>
         <p className="paragrapheGlobal">
           Généralement, pour vous accorder un crédit, l’organisme de prêt vous
           demande de souscrire une assurance de prêt afin de garantir votre

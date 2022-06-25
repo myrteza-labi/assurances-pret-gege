@@ -68,9 +68,9 @@ function Senior() {
             s’acquitter d’une assurance pret senior dont le coût peut parfois
             leur revenir plus cher.
           </p>
-          <h5 id="senior-pret" className="h5Global">
+          <h3 id="senior-pret" className="h5Global">
             Assurance pret Senior : Comment s’assurer ?
-          </h5>
+          </h3>
           <p id="senior-age" className="paragrapheGlobal">
             Dans le cas où un risque aggravé de santé se présente, le sénior
             peut toujours prétendre aux protections classiques, à savoir la
@@ -82,7 +82,7 @@ function Senior() {
             des exclusions de garanties par rapport aux risques liés aux
             complications de sa maladie.
           </p>
-          <h5 className="h5Global">Emprunter après 60 ans, un réel défi</h5>
+          <h3 className="h5Global">Emprunter après 60 ans, un réel défi</h3>
           <p  className="paragrapheGlobal">
             Les personnes qui arrivent à l’âge de la retraite ne sont plus
             confrontées aux problèmes relatifs aux aléas de l’emploi tels que le
@@ -100,7 +100,7 @@ function Senior() {
             généralement exigée et que le sénior va également rencontrer un
             certain nombre de difficultés pour s’assurer.
           </p>
-          <h5 id="senior-retraire" className="h5Global">Comment obtenir un prêt retraité ?</h5>
+          <h3 id="senior-retraire" className="h5Global">Comment obtenir un prêt retraité ?</h3>
           <p className="paragrapheGlobal">
             Obtenir un crédit après 60 ans n’a plus rien d’utopique. Dans un
             contexte où l’espérance de vie est de plus en plus élevée, les
@@ -111,7 +111,7 @@ function Senior() {
             spécialisé en assurance de crédit augmente, de surcroit, ses chances
             de souscrire un contrat adapté et plus avantageux.
           </p>
-          <h5 id="senior-accord" className="h5Global">Quelles sont les étapes qui suivent l'accord de la banque ?</h5>
+          <h3 id="senior-accord" className="h5Global">Quelles sont les étapes qui suivent l'accord de la banque ?</h3>
           <p className="paragrapheGlobal">
             Une fois le crédit accordé, il reste à régler la question épineuse
             de l’assurance emprunteur, un élément important pour faire aboutir
@@ -136,7 +136,7 @@ function Senior() {
             décès allant jusqu’à 90 ans. Par ailleurs, pour la plupart des
             contrats individuels, la souscription est possible jusqu’à 85 ans.
           </p>
-          <h5 id="senior-profil" className="h5Global">Quels sont les profils sénior que privilégient les banques</h5>
+          <h3 id="senior-profil" className="h5Global">Quels sont les profils sénior que privilégient les banques</h3>
           <p className="paragrapheGlobal">
             Malgré la réticence des organismes prêteurs à accorder un crédit aux
             personnes de plus de 60 ans, les retraités peuvent concrétiser leur
@@ -170,9 +170,9 @@ function Senior() {
             Comme n’importe quel crédit, le capital et ses intérêts sont
             remboursables tous les mois.
           </p>
-          <h5 id="senior-mutuelle" className="h5Global">
+          <h3 id="senior-mutuelle" className="h5Global">
             L’intérêt d’adhérer à une mutuelle sénior
-          </h5>
+          </h3>
           <p className="paragrapheGlobal">
             Passé le cap des 60 ans, les problèmes de santé commencent à faire
             leur apparition. C’est pour cette raison qu’il est indispensable de

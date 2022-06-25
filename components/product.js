@@ -10,7 +10,7 @@ function Product(props) {
                 enhanced_encryption
               </span>
 
-              <h4 className="productTitle">Garanties</h4>
+              <p className="productTitle">Garanties</p>
             </div>
         </Link>
         <Link href="/cout">
@@ -18,7 +18,7 @@ function Product(props) {
               <span className="material-symbols-outlined productIcon">
                 euro
               </span>
-              <h4 className="productTitle">Coûts</h4>
+              <p className="productTitle">Coûts</p>
             </div>
         </Link>
         <Link href="/comparatif">
@@ -26,7 +26,7 @@ function Product(props) {
               <span className="material-symbols-outlined productIcon">
                 compare_arrows
               </span>
-              <h4 className="productTitle">Comparatif</h4>
+              <p className="productTitle">Comparatif</p>
             </div>
         </Link>
         <Link href="/comparatif">
@@ -34,7 +34,7 @@ function Product(props) {
               <span className="material-symbols-outlined productIcon">
                 insights
               </span>
-              <h4 className="productTitle">Négociation</h4>
+              <p className="productTitle">Négociation</p>
             </div>
         </Link>
       </div>
@@ -44,13 +44,13 @@ function Product(props) {
               <span className="material-symbols-outlined productIcon2">
                 magic_button
               </span>
-              <h4 className="productTitle2">Devis</h4>
+              <p className="productTitle2">Devis</p>
             </div>
         </Link>
         <Link href="/pret">
             <div className="product2">
-              <span class="material-symbols-outlined productIcon2">real_estate_agent</span>
-              <h4 className="productTitle2">Prêt</h4>
+              <span className="material-symbols-outlined productIcon2">real_estate_agent</span>
+              <p className="productTitle2">Prêt</p>
             </div>
         </Link>
       </div>

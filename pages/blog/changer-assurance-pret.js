@@ -47,9 +47,9 @@ function BlogChangerAssurance() {
           src={"/assurances-pret-blog-changer.jpg"}
           alt={""}
         >
-          <h5 id="change-itnro"className="h5Global">
+          <h3 id="change-itnro"className="h5Global">
             Changer assurance prêt : une opération facile avec le bon courtier{" "}
-          </h5>
+          </h3>
           <p className="paragrapheGlobal">
             Dans le cadre d’un prêt immobilier, vous avez dû souscrire une
             assurance de prêt. Cependant, il se peut qu’en cours de réalisation
@@ -67,9 +67,9 @@ function BlogChangerAssurance() {
             acceptés par la banque. Dans la pratique, l’établissement bancaire
             vérifie si les conditions de garantie sont équivalentes aux siennes.
           </p>
-          <h5 id="change-demarche" className="h5Global">
+          <h3 id="change-demarche" className="h5Global">
             La procédure à suivre pour changer assurance prêt
-          </h5>
+          </h3>
           <p className="paragrapheGlobal">
             Pour changer assurance prêt, l’assuré doit au préalable trouver une
             nouvelle assurance et en fournir la délégation à sa banque. Il faut

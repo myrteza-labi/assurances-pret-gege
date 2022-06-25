@@ -49,7 +49,7 @@ function BlogGaranties() {
           src={"/assurances-pret-blog-garanties.jpg"}
           alt={""}
         >
-          <h5 id="garanties-intro" className="h5Global">Qu’est-ce qu’une assurance prêt ?</h5>
+          <h3 id="garanties-intro" className="h5Global">Qu’est-ce qu’une assurance prêt ?</h3>
           <p className="paragrapheGlobal">
             De nombreux établissements bancaires n’accordent pas de crédits
             immobiliers si le candidat à l’emprunt ne souscrit pas d’assurance
@@ -64,10 +64,10 @@ function BlogGaranties() {
             mensualités du crédit en cas incapacité de travail ou de décès à la
             suite d’un accident ou d’une maladie.
           </p>
-          <h5 className="h5Global">
+          <h3 className="h5Global">
             Garantir son crédit en profitant de la Loi Lagarde en délégation
             d’assurance
-          </h5>
+          </h3>
 
           <p className="paragrapheGlobal">
             Auparavant, seules les banques prêteuses proposaient une assurance
@@ -83,9 +83,9 @@ function BlogGaranties() {
             Lagarde donne aussi la possibilité aux emprunteurs de changer
             d’assurance prêt en cours de remboursement du crédit immobilier.
           </p>
-          <h5 className="h5Global">
+          <h3 className="h5Global">
             Faites jouer la concurrence entre les assureurs
-          </h5>
+          </h3>
 
           <p className="paragrapheGlobal">
             Comparez les différentes offres d’assurance prêt à l’aide d’un

@@ -48,7 +48,7 @@ function BlogObesite() {
           src={"/assurances-pret-blog-obesite.jpg"}
           alt={""}
         >
-          <h5 id="obesite-intro" className="h5Global">L’assurance prêt obésité</h5>
+          <h3 id="obesite-intro" className="h5Global">L’assurance prêt obésité</h3>
           <p className="paragrapheGlobal">
             La détermination du coût d’une assurance emprunteur dépend de
             critères personnalisés très précis. Certaines catégories
@@ -65,9 +65,9 @@ function BlogObesite() {
             fait, ils peuvent accéder à une assurance prêt obésité mais les
             conditions proposées risquent de ne pas être assez avantageuses.
           </p>
-          <h5 className="h5Global">
+          <h3 className="h5Global">
             Le surpoid : un facteur déterminant{" "}
-          </h5>
+          </h3>
           <p className="paragrapheGlobal">
             L’évaluation du risque en cas de surpoids dépend de l’Indice de
             Masse Corporelle (IMC). Ce critère va servir de base pour fixer les

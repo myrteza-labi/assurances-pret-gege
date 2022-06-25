@@ -1,5 +1,5 @@
 .Partenaires{
-    background-color: #f9fafb;
+    background-color: #f1f0f0;
     padding: 45px 15px 0;
     text-align: center;
     position: relative;
@@ -17,7 +17,7 @@
 
 .partenaireParagraphe{
     font-weight: 400; 
-    color: #627a93;
+    color: #2a3775;
     font-size: 1rem;
     line-height: 1.5;
     margin-bottom: 30px;

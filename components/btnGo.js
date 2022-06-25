@@ -4,7 +4,7 @@ function BtnGo(props){
     return (
 
           <div className="BtnGo">
-            <h4 className="btnGoDevisTitle">{props.title}</h4>
+            <p className="btnGoDevisTitle">{props.title}</p>
             <button className="btnGoButton">{props.btnText}</button>
           </div>
 

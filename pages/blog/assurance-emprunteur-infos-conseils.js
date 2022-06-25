@@ -46,7 +46,7 @@ function BlogConseil() {
           src={"/assurances-pret-courtier-blog.jpg"}
           alt={""}
         >
-          <h5 id="conseil-expert" className="h5Global">Infos concernant l’assurance emprunteur </h5>
+          <h3 id="conseil-expert" className="h5Global">Infos concernant l’assurance emprunteur </h3>
           <p className="paragrapheGlobal">
             Les prêts bancaires sont un excellent moyen pour pouvoir s’acheter
             une maison ou une voiture dans l’immédiat ou pour financer des
@@ -67,9 +67,9 @@ function BlogConseil() {
             rembourser le prêt contracté auprès de la banque en cas de problèmes
             de santé grave, de chômage ou de décès de l’emprunteur.
           </p>
-          <h5 className="h5Global">
+          <h3 className="h5Global">
             Conseils pour bénéficier d’une bonne assurance emprunteur{" "}
-          </h5>
+          </h3>
           <p className="paragrapheGlobal">
             Pour profiter de la meilleure assurance emprunteur, il est
             préférable de souscrire le contrat d’assurance auprès d’un assureur

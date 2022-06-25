@@ -49,9 +49,9 @@ function Devis() {
           primordiale avant de faire choisir votre contrat d'assurance prêt et
           d'y souscrire
         </SimpleTextBox>
-        <h6 className="h6Global">
+        <h3 className="h6Global">
           Un devis d'assurance prêt : mais qu'est-ce que c'est exactement ?
-        </h6>
+        </h3>
         <p className="paragrapheGlobal">
           Celui-ci intègre la totalité des clause de votre contrat. Les formules
           souscrites, les garanties dont vous disposerez et leurs franchises,
@@ -61,9 +61,9 @@ function Devis() {
           autres offres disponible sur le marché.
         </p>
 
-        <h6 className="h6Global">
+        <h4 className="h6Global">
           Pourquoi comparer le tarif d'assurance prêt ?
-        </h6>
+        </h4>
         <p className="paragrapheGlobal">
           Cette étape vous permet premièrement de savoir combien va beaucoup TD
           votre assurance. Grâce aux informations que vous partagerai avec
@@ -78,10 +78,10 @@ function Devis() {
           La véracité de vos déclaration vous protégera en cas de sinistre.
         </SimpleInfoBox>
 
-        <h6 className="h6Global">
+        <h5 className="h6Global">
           Quels sont les documents à fournir pour établir un devis d'assurance
           prêt personnalisée ?
-        </h6>
+        </h5>
 
         <p className="paragrapheGlobal">
           Avant de commencer une demande d'assurance prêt en ligne,

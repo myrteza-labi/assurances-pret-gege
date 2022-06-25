@@ -24,15 +24,15 @@ function FullArticle(props) {
 
   return (
     <div className="Article">
-      <h5 className="h5Global">{props.title}</h5>
+      <p className="h5Global">{props.title}</p>
       <div className="blogImageContainer">
         <img className="blogImage" src={props.src} alt={props.alt} />
       </div>
       <p className="mascotteArticleTheme">{props.theme}</p>
 
-      <h6 id="chomage" className="h6Global">
+      <p id="chomage" className="h6Global">
           {props.h6}
-        </h6>
+        </p>
       {props.description}
       <div className="faqOnQuestionBox">
       {props.children}

@@ -29,8 +29,12 @@ function Footer() {
           <li className="footer-li">Mentions légales</li>
         </Link>
       </ul>
+
       <div className="footer-link-container">
+
         <div className="footer-link-group">
+        <ul className="footer-ul">
+
         <Link href="/selection">
           <li className="footer-link">Selection immobilière</li>
         </Link>
@@ -82,6 +86,8 @@ function Footer() {
         <Link href="/blog/changer-assurance-pret">
           <li className="footer-link">Changer d'assurance prêt</li>
         </Link>
+        </ul>
+
         </div>
       </div>
       

@@ -49,9 +49,9 @@ function BlogResiliation() {
           src={"/assurances-pret-blog-resiliation.jpg"}
           alt={""}
         >
-          <h5 id="resilitation-introduction" className="h5Global">
+          <h3 id="resilitation-introduction" className="h5Global">
             À quel moment demander la résiliation assurance prêt ?
-          </h5>
+          </h3>
           <p className="paragrapheGlobal">
             Sous peine de nullité, votre contrat d’assurance de prêt immobilier
             doit contenir le taux de l’assurance, le questionnaire de santé et
@@ -70,9 +70,9 @@ function BlogResiliation() {
             motif est stipulé dans le contrat.
           </p>
 
-          <h5 className="h5Global">
+          <h3 className="h5Global">
             Comment faire aboutir une résiliation assurance crédit ?{" "}
-          </h5>
+          </h3>
           <p id="resiliation-hamon" className="paragrapheGlobal">
             Quand le prêt est remboursé dans son intégralité, c’est l’assureur
             qui vous préviendra de la fin du contrat. Dans le cas d’un
@@ -88,9 +88,9 @@ function BlogResiliation() {
             stipulées dans le contrat d’assurance en ce qui concerne les motifs
             possibles de résiliation du contrat.
           </p>
-          <h5  className="h5Global">
+          <h3  className="h5Global">
             La loi Hamon : un délai d’un an pour résilier une assurance de prêt{" "}
-          </h5>
+          </h3>
           <p className="paragrapheGlobal">
             La loi Hamon autorise les emprunteurs à recourir à la résiliation
             assurance emprunteur dans un délai d’un an s’ils trouvent une offre

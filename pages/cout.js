@@ -39,7 +39,7 @@ function Cout() {
       </Link>
 
       <div className="secondSectionGaranties">
-        <h4 className="h4Global">Coût assurance pret des garanties</h4>
+        <h2 className="h4Global">Coût assurance pret des garanties</h2>
 
         <p className="paragrapheGlobal">
           Défiscalisation, investissement locatif, réduction d’impôts variable
@@ -49,14 +49,14 @@ function Cout() {
           but ? Faire baisser ses impôts. Ce n’est toujours pas plus clair ? Pas
           de problème, suivez le guide pour tout connaître sur la loi Pinel !
         </p>
-        <h4 className="h4Global">Comment sont calculés les coûts?</h4>
+        <h3 className="h4Global">Comment sont calculés les coûts?</h3>
         <SimpleTextBox>
           Les coût sont calculés selon le montant du prêt à assurer, la durée de
           celui-ci ainsi que votre profile. Selon les banques, d'autres facteurs
           peuvent être pris en compte.
         </SimpleTextBox>
 
-        <h4 className="h4Global">Coût assurance pret des garanties</h4>
+        <h3 className="h4Global">Coût assurance pret des garanties</h3>
 
         <p className="paragrapheGlobal">
           Une assurance de prêt est constituée de garanties de base et de
@@ -69,15 +69,15 @@ function Cout() {
           IPP.
         </p>
 
-        <h5 className="h5Global">Comment sont calculées les cotisations ? </h5>
+        <h3 className="h5Global">Comment sont calculées les cotisations ? </h3>
         <SimpleTextBox>
           Il existe deux modes de calcul : <br />
           - calcul sur la base du capital emprunté
           <br />- calcul sur le capital restant dû
         </SimpleTextBox>
-        <h6 className="h6Global">
+        <h3 className="h6Global">
           Calcul du coût assurance pret sur la base du capital emprunté
-        </h6>
+        </h3>
         <p className="paragrapheGlobal">
           Les primes mensuelles sont fixes pendant toute la durée de
           remboursement de votre crédit. Et le pourcentage des cotisations
@@ -85,9 +85,9 @@ function Cout() {
           est généralement utilisé pour l’assurance groupe collective.
         </p>
 
-        <h6 className="h6Global">
+        <h3 className="h6Global">
           Calcul du coût assurance pret sur le capital restant dû
-        </h6>
+        </h3>
         <p className="paragrapheGlobal">
           Les cotisations mensuelles diminuent peu à peu en proportion du
           montant de votre capital restant dû. Ces cotisations sont calculées

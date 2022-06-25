@@ -17,9 +17,9 @@
 }
 
 .product {
-    min-width: 48%; 
+    min-width: 40%; 
     height: 50px;
-    max-width: 155px; 
+    max-width: 48%; 
     min-height: 130px; 
     margin-bottom: 20px; 
     position: relative;
@@ -40,7 +40,7 @@
 
 .productIcon{
     font-size: 50px; 
-    color: #13acf7; 
+    color: #009be8; 
     margin-bottom: 8px; 
 }
 
@@ -74,7 +74,7 @@
 }
 .productIcon2{
     margin-right: 15px; 
-    color: #13acf7; 
+    color: #009be8; 
 }
 
 .productTitle2{

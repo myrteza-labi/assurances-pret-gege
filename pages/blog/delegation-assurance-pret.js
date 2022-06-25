@@ -47,10 +47,10 @@ function BlogDelguation() {
           src={"/assurances-pret-blog-cout.jpg"}
           alt={""}
         >
-          <h5 id="dele-intro" className="h5Global">
+          <h3 id="dele-intro" className="h5Global">
             Profiter d’une totale liberté de choisir avec la délégation
             assurance pret
-          </h5>
+          </h3>
           <p className="paragrapheGlobal">
             La délégation assurance prêt consiste à choisir une offre
             d’assurance de prêt moins chère, mais tout aussi performante que
@@ -73,9 +73,9 @@ function BlogDelguation() {
             doit faire l’objet d’aucune facturation et l’acceptation ou le refus
             doit être formulé dans un délai de 10 jours.
           </p>
-          <h5 id="dele-interet" className="h5Global">
+          <h3 id="dele-interet" className="h5Global">
             Quels sont les intérêts d’une délégation assurance crédit ?
-          </h5>
+          </h3>
           <p className="paragrapheGlobal">
             Une délégation d’assurance crédit permet avant tout de souscrire une
             assurance à un tarif compétitif et de bénéficier de garanties sur

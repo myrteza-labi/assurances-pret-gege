@@ -8,9 +8,9 @@ function Comparatif() {
     <div className="Comparatif">
       <div className="firstSection firstSectionComparatif">
         <h1 className="h1Global">Comparez et économisez sur vos factures </h1>
-        <h3 className="h3Global">
+        <h2 className="h3Global">
           Comparez vos assurances et réduisez vos dépenses en quelques clics
-        </h3>
+        </h2>
 
         <div className="imgFirstContainer">
           <div className="gegeImgFirst gegeImgFirstCompratif"></div>
@@ -18,7 +18,7 @@ function Comparatif() {
       </div>
 
       <div className="secondSectionGaranties">
-        <h2 className="h2Global">Comparatif assurance pret simple et rapide</h2>
+        <h3 className="h2Global">Comparatif assurance pret simple et rapide</h3>
         <p className="paragrapheGlobal">
           Le taux d’une assurance de prêt varie selon le montant emprunté, les
           garanties souscrites et l’âge de l’emprunteur. Si vous êtes un jeune
@@ -33,7 +33,7 @@ function Comparatif() {
           recherche du meilleur contrat d’assurance credit, n’hésitez pas à
           utiliser un comparatif assurance pret.
         </p>
-        <h6 className="h6Global"> Jusqu'à 15 000€ d'économisé*</h6>
+        <h4 className="h6Global"> Jusqu'à 15 000€ d'économisé*</h4>
 
         <SimpleTextBox>
           En moyenne plus de 85 % des assurances externes sont moins cher que

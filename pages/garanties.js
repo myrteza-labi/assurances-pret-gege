@@ -11,10 +11,10 @@ function Garanties() {
     <div className="garanties">
       <div className="firstSection firstSectionGaranties">
         <h1 className="h1Global">Comparez et économisez sur vos factures </h1>
-        <h3 className="h3Global">
+        <h2 className="h3Global">
           Assurances prêt, immobilier, comment réduire ses dépenses avec Assuréa
           ?
-        </h3>
+        </h2>
 
         <Link href="/devis">
           <a>
@@ -31,7 +31,7 @@ function Garanties() {
       </div>
 
       <div className="secondSectionGaranties">
-        <h2 id="generalite" className="h2Global">Les garanties assurance pret d’un contrat</h2>
+        <h3 id="generalite" className="h2Global">Les garanties assurance pret d’un contrat</h3>
 
         <Sommaire
           sommaireTitle={"Sommaire"}
@@ -100,7 +100,6 @@ function Garanties() {
           stipuler le montant des primes d’assurance sur une durée déterminée.
         </p>
         <h5 className="h5Global">Les garanties assurance pret</h5>
-        <h6  className="h6Global">Garantie décès :</h6>
 
         <p className="paragrapheGlobal">
           La garantie décès est une garantie de base systématiquement exigée par
@@ -133,7 +132,7 @@ function Garanties() {
           par l’emprunteur afin qu’il soit couvert en cas de licenciement.
         </p>
 
-        <h4 className="h4Global">Qu'est ce que la loi Pinel</h4>
+        <h5 className="h4Global">Qu'est ce que la loi Pinel</h5>
         <SimpleTextBox>
           La loi Pinel est un accord gagnant-gagnant : en faisant appel au
           financement des épargnants, l’État accorde à ces derniers de payer

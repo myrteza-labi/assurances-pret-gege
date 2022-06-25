@@ -9,9 +9,9 @@ function Immobilier() {
         <h1 className="h1Global">
           Comparez et économisez sur votre assurance prêt immobilier{" "}
         </h1>
-        <h3 className="h3Global">
+        <h2 className="h3Global">
           Comparez vos assurances et réduisez vos dépenses en quelques clics
-        </h3>
+        </h2>
 
         <div className="imgFirstContainer">
           <div className="gegeImgFirst gegeImgFirstImmobilier"></div>
@@ -19,7 +19,7 @@ function Immobilier() {
       </div>
 
       <div className="secondSectionGaranties">
-        <h2 className="h2Global">Comparatif assurance prêt immobilier</h2>
+        <h3 className="h2Global">Comparatif assurance prêt immobilier</h3>
         <p className="paragrapheGlobal">
           Dans le cadre d’un crédit immobilier, l’assurance de prêt est une
           garantie que les banques et organismes de crédit exigent pour couvrir
@@ -33,10 +33,10 @@ function Immobilier() {
           proches de l’emprunteur de ne pas hériter de sa dette et de conserver
           le bien financé si celui-ci venait à décéder.
         </p>
-        <h6 className="h6Global">
+        <h4 className="h6Global">
           {" "}
           A qui s’adresser pour souscrire une assurance ?
-        </h6>
+        </h4>
 
         <SimpleTextBox>
           Lors de son offre de crédit, la banque propose généralement à
@@ -105,7 +105,7 @@ function Immobilier() {
           ne pas être compris du consommateur. Voici cependant les points clés à
           vérifier lors d’un comparatif assurance pret des contrats proposés.
         </p>
-        <h6 className="h6Global">Comparez les offres entres elles</h6>
+        <h5 className="h6Global">Comparez les offres entres elles</h5>
         <p className="paragrapheGlobal">
           Pour comparer les offres entre elles, il ne vous faut pas seulement
           vous baser sur le coût des assurances mais aussi sur les garanties

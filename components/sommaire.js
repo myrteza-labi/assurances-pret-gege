@@ -3,7 +3,7 @@ import Link from "next/link";
 function Sommaire(props) {
   return (
     <div className="Sommaire">
-      <h4 className="sommaireTitle">{props.sommaireTitle}</h4>
+      <p className="sommaireTitle">{props.sommaireTitle}</p>
       <ul className="sommaireLinkCtn">
         {props.title1 == undefined ? (
           ""

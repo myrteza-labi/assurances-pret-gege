@@ -8,10 +8,10 @@ function Deces() {
         <h1 className="h1Global">
           L'assurance déces-invalidité vous protège ainsi que vos proche{" "}
         </h1>
-        <h3 className="h3Global">
+        <h2 className="h3Global">
           Garantissez-vous un prêt serein et réduisez vos dépenses en quelques
           clics
-        </h3>
+        </h2>
 
         <div className="imgFirstContainer">
           <div className="gegeImgFirst gegeImgFirstDeces"></div>
@@ -19,7 +19,7 @@ function Deces() {
       </div>
 
       <div className="secondSectionGaranties">
-        <h2 className="h2Global">Comparatif assurance prêt décès-invalidité</h2>
+        <h3 className="h2Global">Comparatif assurance prêt décès-invalidité</h3>
         <p className="paragrapheGlobal">
           Focus sur l’assurance décès-invalidité, généralement liée à
           l’assurance décès, la garantie invalidité permet de couvrir les
@@ -29,9 +29,9 @@ function Deces() {
           revenu de l’assuré.
         </p>
 
-        <h6 className="h6Global">
+        <h4 className="h6Global">
           Pourquoi souscrire une garantie décès invalidité ?
-        </h6>
+        </h4>
 
         <SimpleTextBox>
           Cette garantie est obligatoire et elle est exigée par l’établissement

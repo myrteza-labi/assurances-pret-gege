@@ -2,5 +2,5 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/pret": "pages/pret.js"
+  "/blog/changer-assurance-pret": "pages/blog/changer-assurance-pret.js"
 }

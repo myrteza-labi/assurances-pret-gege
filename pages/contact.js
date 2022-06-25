@@ -34,14 +34,14 @@ function Contact() {
         <h1 className="h1Contact">Nous contacter</h1>
 
         <form className="SelectBox" action="" >
-          <label className="selectTitle">
+          <label htmlFor="object" className="selectTitle">
             Objet de votre demande de contact :{" "}
           </label>
           <div className="selectCtn">
             <span className="material-symbols-outlined selectOptionArrow">
               expand_more
             </span>
-            <select className="select">
+            <select id="votre" className="select">
               <option className="option">Questions diverse </option>
               <option className="option">Données personnelles</option>
               <option className="option">Gestion de mes emails</option>
@@ -62,7 +62,7 @@ function Contact() {
                 <span className="material-symbols-outlined civiliteIcon">
                   woman
                 </span>
-                <label className="civiliteLabel" for="huey">
+                <label className="civiliteLabel" htmlFor="huey">
                   Madame
                 </label>
                 <span className="material-symbols-outlined circleIconCivilite">
@@ -74,7 +74,7 @@ function Contact() {
                 <span className="material-symbols-outlined civiliteIcon">
                   man
                 </span>
-                <label className="civiliteLabel" for="huey">
+                <label className="civiliteLabel" htmlFor="huey">
                   Monsieur
                 </label>
                 <span className="material-symbols-outlined circleIconCivilite">
@@ -84,18 +84,20 @@ function Contact() {
             </div>
 
             <div className="inputTextContainer">
-              <label className="selectTitle">Prénom : </label>
-              <input type="text" className="inputText" />
+              <label htmlFor="prenom" className="selectTitle">Prénom : </label>
+              <input id="prenom" name="prenom" type="text" className="inputText" />
             </div>
 
             <div className="inputTextContainer">
-              <label className="selectTitle">Nom : </label>
-              <input type="text" className="inputText" />
+              <label htmlFor="nom" className="selectTitle">Nom : </label>
+              <input id="nom" name="nom" type="text" className="inputText" />
             </div>
 
             <div className="inputTextContainer">
-              <label className="selectTitle">Adress email : </label>
+              <label htmlFor="email" className="selectTitle">Adress email : </label>
               <input
+              name="email"
+              id="email"
                 placeholder="Ex : romain.sebas@email.com"
                 type="email"
                 className="inputText"
@@ -103,8 +105,9 @@ function Contact() {
             </div>
 
             <div className="inputTextContainer">
-              <label className="selectTitle">Votre message : </label>
+              <label htmlFor="message" className="selectTitle">Votre message : </label>
               <textarea
+                id="message"
                 className="inputText"
                 placeholder="Merci d'indiquer la raison de votre demande"
                 name="story"

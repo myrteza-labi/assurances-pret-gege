@@ -21,12 +21,11 @@ function Pret() {
         </div>
       </div>
       <Link href="/devis">
-          <a>
-            <BtnGo
-              btnText={"Obtenir un devis en 10 minutes"}
-            />
-          </a>
-        </Link>      <div className="enSavoirPlusCtn">
+        <a>
+          <BtnGo btnText={"Obtenir un devis en 10 minutes"} />
+        </a>
+      </Link>{" "}
+      <div className="enSavoirPlusCtn">
         <p className="enSavoirPlus">Contacter un conseiller </p>
         <span className="material-symbols-outlined orange-arrow">
           trending_flat
@@ -43,7 +42,7 @@ function Pret() {
           entre autres la volonté de la plupart des établissements financiers à
           satisfaire leurs clientèles.
         </p>
-        <h4 className="h4Global">Qu’est-ce que le pret à emprunteur unique?</h4>
+        <h3 className="h4Global">Qu’est-ce que le pret à emprunteur unique?</h3>
 
         <p className="paragrapheGlobal">
           On peut définir un pret à emprunteur unique de façon négative par
@@ -60,7 +59,7 @@ function Pret() {
           Les taux sont susceptibles de varier selon la période de souscription,
           votre situation actuelle, et la somme à assurer
         </SimpleInfoBox>
-        <h6 className="h6Global">Comment fionctionne t-elle ?</h6>
+        <h4 className="h6Global">Comment fionctionne t-elle ?</h4>
 
         <p className="paragrapheGlobal">
           Au plan juridique, ce type de contrat de prêt met en relation
@@ -76,7 +75,7 @@ function Pret() {
           renouvelable.
         </p>
 
-        <h6 className="h6Global">Comment obtenir le meilleur taux</h6>
+        <h5 className="h6Global">Comment obtenir le meilleur taux</h5>
 
         <p className="paragrapheGlobal">
           Au plan juridique, ce type de contrat de prêt met en relation
@@ -103,9 +102,9 @@ function Pret() {
           compliqués, et obtenez directement le meilleur tarif pour les
           garanties souhaitées.
         </SimpleTextBox>
-        <h2 className="h2Global">
+        <h5 className="h2Global">
           L’évolution des taux de prets : calcul pret
-        </h2>
+        </h5>
 
         <p className="paragrapheGlobal">
           Selon les analyses menées sur les offres de prêt immobilier sur le
@@ -130,12 +129,12 @@ function Pret() {
           à 2 emprunteurs.
         </p>
         <p className="paragrapheGlobal">
-          En effet, souscrire un prêt multi-emprunteur, permet au créancier d’avoir
-          d'avantage de garanties quant au remboursement des échéances dues. En
-          effet, pour établir l’emprunt, le prêteur se basera sur les revenus de
-          l’emprunteur et du co-emprunteur. Ainsi, il ne peut plus régler
-          correctement les mensualités à rembourser, le créancier se retournera
-          vers le co-emprunteur.
+          En effet, souscrire un prêt multi-emprunteur, permet au créancier
+          d’avoir d'avantage de garanties quant au remboursement des échéances
+          dues. En effet, pour établir l’emprunt, le prêteur se basera sur les
+          revenus de l’emprunteur et du co-emprunteur. Ainsi, il ne peut plus
+          régler correctement les mensualités à rembourser, le créancier se
+          retournera vers le co-emprunteur.
         </p>
         <p className="paragrapheGlobal">
           L’avantage pour les emprunteurs sera de pouvoir obtenir une somme
@@ -158,7 +157,7 @@ function Pret() {
           par ce contrat de prêt, jusqu’au remboursement intégral des sommes
           dues.
         </p>
-        <h4 className="h4Global">Une tendance baissière à profiter</h4>
+        <h5 className="h4Global">Une tendance baissière à profiter</h5>
         <p className="paragrapheGlobal">
           La tendance baissière des prets immobiliers taux ces derniers temps
           constitue une occasion idéale pour effectuer un emprunt auprès de sa

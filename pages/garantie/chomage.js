@@ -7,10 +7,10 @@ function Chomage() {
     <div className="Comparatif">
       <div className="firstSection firstSectionComparatif">
         <h1 className="h1Global">Protegez-vous en cas de perte d'emploi </h1>
-        <h3 className="h3Global">
+        <h2 className="h3Global">
           Garantissez-vous un prêt serein et réduisez vos dépenses en quelques
           clics
-        </h3>
+        </h2>
 
         <div className="imgFirstContainer">
           <div className="gegeImgFirst gegeImgFirstChomage"></div>
@@ -18,7 +18,7 @@ function Chomage() {
       </div>
 
       <div className="secondSectionGaranties">
-        <h2 className="h2Global">Comparatif assurance prêt chômage</h2>
+        <h3 className="h2Global">Comparatif assurance prêt chômage</h3>
         <p className="paragrapheGlobal">
           L’obtention d’un crédit permet de concrétiser notre projet, s’acheter
           une maison, ouvrir une boutique, partir en voyage ou encore tout autre
@@ -37,7 +37,7 @@ function Chomage() {
           améliorer votre protection durant toute votre période de remboursement
           et rassurer votre banquier.
         </p>
-        <h6 className="h6Global"> L' assurance perte d'emploi, c'est quoi ?</h6>
+        <h4 className="h6Global"> L' assurance perte d'emploi, c'est quoi ?</h4>
 
         <SimpleTextBox>
           La garantie chômage ou perte d’emploi permet de garantir le
@@ -67,10 +67,10 @@ function Chomage() {
           est en période d’essai ou qui a reçu un préavis de licenciement ne
           peut souscrire l’assurance.
         </SimpleTextBox>
-        <h6 className="h6Global">
+        <h5 className="h6Global">
           {" "}
           Quand bénéficie-t-on de l’assurance chômage ?
-        </h6>
+        </h5>
 
         <p className="paragrapheGlobal">
           La souscription de l’assurance est systématiquement suivie par une
@@ -90,9 +90,9 @@ function Chomage() {
           franchise » : période de 3 à 6 mois qui débute à compter de la
           perception des allocations Assedic.
         </p>
-        <h4 className="h4Global">
+        <h5 className="h4Global">
           Quand prend fin un contrat d’assurance perte d’emploi ?
-        </h4>
+        </h5>
         <p className="paragrapheGlobal">
           Un contrat assurance chomage pret se renouvelle tous les ans par
           tacite reconduction. Il peut s’arrêter si le remboursement du pret

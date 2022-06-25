@@ -51,7 +51,7 @@ function BlogEmprunt() {
           src={"/assurances-pret-blog-immobilier.jpg"}
           alt={""}
         >
-          <h5 className="h5Global">Choisir son assurance emprunt immobilier</h5>
+          <h2 className="h5Global">Choisir son assurance emprunt immobilier</h2>
           <p className="paragrapheGlobal">
             Disposer d’un prêt immobilier assurance est une condition sine qua
             non à l’octroi d’un crédit immobilier. L’établissement bancaire
@@ -66,9 +66,9 @@ function BlogEmprunt() {
             obligation légale, mais une contrainte imposée par les organismes
             prêteurs.
           </p>
-          <h5 className="h5Global">
+          <h3 className="h5Global">
             Emprunt immobilier assurance : la révolution Lagarde{" "}
-          </h5>
+          </h3>
           <p className="paragrapheGlobal">
             Dès la présentation de l’offre, la loi Lagarde, depuis sa réforme,
             exige que la banque vous informe sur votre droit de souscrire une
@@ -81,9 +81,9 @@ function BlogEmprunt() {
             modification du taux d’emprunt ou une facturation des services liés
             à la délégation de l’emprunt immobilier assurance.
           </p>
-          <h5 id="pret" className="h5Global">
+          <h3 id="pret" className="h5Global">
             Comment trouver un prêt immobilier assurance compétitive ?{" "}
-          </h5>
+          </h3>
           <p className="paragrapheGlobal">
             Pour trouver une assurance prêt immobilier moins chère, il convient
             de se baser sur des critères identiques comme le tarif, les

@@ -46,7 +46,7 @@ function BlogDevis() {
           src={"/assurances-pret-blog-devis.jpg"}
           alt={""}
         >
-          <h5 id="devis-intro" className="h5Global">Combien coûte une assurance de prêt ?</h5>
+          <h3 id="devis-intro" className="h5Global">Combien coûte une assurance de prêt ?</h3>
           <p className="paragrapheGlobal">
             Face au large panel d’offres en matière d’assurance de prêt, le
             mieux est de faire appel aux services d’un professionnel afin
@@ -69,9 +69,9 @@ function BlogDevis() {
             de vigilance et se base sur des critères similaires afin de mieux
             comparer différents produits.
           </p>
-          <h5 className="h5Global">
+          <h3 className="h5Global">
             Quels éléments prendre en compte dans un devis assurance credit ?{" "}
-          </h5>
+          </h3>
           <p className="paragrapheGlobal">
             Dans un devis assurance credit, le seul élément de comparaison
             fiable est le Taux Effectif Global. Connue normalement dès l’offre

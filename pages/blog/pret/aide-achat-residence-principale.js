@@ -50,7 +50,7 @@ function BlogAideFinanciere() {
           src={"/assurances-pret-blog-aide-financiere.jpg"}
           alt={""}
         >
-          <h5 id="aide-intro" className="h5Global">Pret Accession Sociale (PAS)</h5>
+          <h3 id="aide-intro" className="h5Global">Pret Accession Sociale (PAS)</h3>
           <p className="paragrapheGlobal">
             Le Pret Accession Sociale (PAS) permet aux acheteurs d’une résidence
             principale qui répondent à certains critères de bénéficier d’un
@@ -59,10 +59,10 @@ function BlogAideFinanciere() {
             frais de dossiers limités et de taux intéressants.
           </p>
 
-          <h5 id="aide-eligible" className="h5Global">PAS / Conditions</h5>
-          <h6 className="h6Global">
+          <h3 id="aide-eligible" className="h5Global">PAS / Conditions</h3>
+          <h3 className="h6Global">
             Les conditions pour bénéficier du PAS sont les suivantes :
-          </h6>
+          </h3>
           <p className="paragrapheGlobal">
             Il faut tout d’abord avoir la nationalité française ou être
             titulaire d’un titre de séjour. Il faut, ensuite, avoir des revenus
@@ -77,7 +77,7 @@ function BlogAideFinanciere() {
             logement devra alors être habité au minimum 8 mois par an pendant le
             remboursement du Pret Accession Sociale.
           </p>
-          <h5 id="aide-pas" className="h5Global">PAS / Banque</h5>
+          <h3 id="aide-pas" className="h5Global">PAS / Banque</h3>
 
           <p className="paragrapheGlobal">
             Ensuite, la banque étudie la demande sur les même critères que ceux

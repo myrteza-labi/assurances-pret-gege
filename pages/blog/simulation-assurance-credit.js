@@ -49,9 +49,9 @@ function BlogSimulation() {
           src={"/assurances-pret-blog-simulation.jpg"}
           alt={""}
         >
-          <h5 id="simulation-intro" className="h5Global">
+          <h3 id="simulation-intro" className="h5Global">
             L’intérêt d’une simulation assurance credit{" "}
-          </h5>
+          </h3>
           <p className="paragrapheGlobal">
             Depuis la possibilité pour les emprunteurs de crédit immobilier de
             déléguer leur assurance de prêt, de nombreuses plateformes
@@ -72,10 +72,10 @@ function BlogSimulation() {
             la plateforme et vous recevrez une solution sur mesure sous deux
             jours.
           </p>
-          <h5 id="simulation-donnes" className="h5Global">
+          <h3 id="simulation-donnes" className="h5Global">
             Quelles sont les données à fournir pour votre calcul assurance prêt
             ?{" "}
-          </h5>
+          </h3>
           <p className="paragrapheGlobal">
             Afin de recevoir une proposition proche de vos réels besoins, il
             convient de compléter avec la plus grande précision possible les

@@ -61,7 +61,7 @@ function BlogTaux() {
           src={"/assurances-pret-blog-taux.jpg"}
           alt={""}
         >
-          <h5 className="h5Global">Quid du taux assurance crédit ?</h5>
+          <h3 className="h5Global">Quid du taux assurance crédit ?</h3>
           <p className="paragrapheGlobal">
             Un crédit immobilier doit toujours être assorti d’une assurance de
             prêt. Depuis qu’il est possible de procéder à une délégation
@@ -90,7 +90,7 @@ function BlogTaux() {
             - Evaluer les garanties
             <br />
           </p>
-          <h5 className="h5Global">Calcul du taux d’assurance emprunteur </h5>
+          <h3 className="h5Global">Calcul du taux d’assurance emprunteur </h3>
           <p className="paragrapheGlobal">
             Le taux assurance credit détermine le prix à l’année de l’assurance
             de crédit. Selon votre situation, l’assureur peut ajouter des

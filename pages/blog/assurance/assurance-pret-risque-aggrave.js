@@ -50,9 +50,9 @@ function BlogRisqueAggrave() {
           src={"/assurances-pret-blog-risque-aggarave.jpg"}
           alt={""}
         >
-          <h5 id="risque-intro"className="h5Global">
+          <h3 id="risque-intro"className="h5Global">
             Changer assurance prêt : une opération facile avec le bon courtier{" "}
-          </h5>
+          </h3>
           <p id="risque-explication" className="paragrapheGlobal">
             Quand on présente un risque aggravé aux yeux des banques il est
             difficile, voir impossible d’obtenir une assurance pret. Pourtant,
@@ -64,7 +64,7 @@ function BlogRisqueAggrave() {
             problème comme la perte d’emplois, la maladie, le décès ou encore
             l’invalidité.
           </p>
-          <h5 className="h5Global">Qu’est ce qu’un risque aggravé ?</h5>
+          <h3 className="h5Global">Qu’est ce qu’un risque aggravé ?</h3>
           <p className="paragrapheGlobal">
             Le risque aggravé c’est quand la situation de l’emprunteur présente
             un niveau de risque supérieur à la normale. Par exemple dans les cas
@@ -84,9 +84,9 @@ function BlogRisqueAggrave() {
             vous classe. Quoi qu’il en soit, vous aurez un problème pour vous
             assurer mais il existe des solutions.
           </p>
-          <h5 className="h5Global">
+          <h3 className="h5Global">
             Obtenir une assurance pour son prêt malgré tout
-          </h5>
+          </h3>
           <p className="paragrapheGlobal">
             Vous pouvez malgré tout obtenir une assurance pour votre prêt si
             vous présentez un risque aggravé. Nous avons des solutions

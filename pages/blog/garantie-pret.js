@@ -51,10 +51,10 @@ function BlogGaranties() {
           src={"/assurances-pret-blog-investissement.jpg"}
           alt={""}
         >
-          <h5 id="garanties-introduction" className="h5Global">
+          <h3 id="garanties-introduction" className="h5Global">
             Profiter d’une totale liberté de choisir avec la délégation
             assurance pret
-          </h5>
+          </h3>
           <p className="paragrapheGlobal">
             Une garantie de prêt est indispensable pour obtenir un financement
             pour l’acquisition d’un bien immobilier. Après avoir étudié le
@@ -66,9 +66,9 @@ function BlogGaranties() {
             ailleurs une garantie de crédit moins chère, mais offrant les mêmes
             couvertures que celle proposée par la banque.
           </p>
-          <h5 className="h5Global">
+          <h3 className="h5Global">
             L’incapacité de travail en garantie de prêt{" "}
-          </h5>
+          </h3>
           <p className="paragrapheGlobal">
             Si vous êtes en situation d’incapacité de travail, l’assureur
             procédera au remboursement de votre prêt. Toutefois, une clause du
@@ -82,7 +82,7 @@ function BlogGaranties() {
             travail » évoqué dans la garantie de pret, afin de ne pas se laisser
             surprendre en cas de sinistre.{" "}
           </p>
-          <h5 className="h5Global">L’invalidité dans une garantie prêt</h5>
+          <h3 className="h5Global">L’invalidité dans une garantie prêt</h3>
           <p className="paragrapheGlobal">
             La prise en charge de la compagnie d’assurance sera en fonction du
             taux d’invalidité prédéfini dans le contrat. Dans la pratique :

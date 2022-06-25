@@ -3,7 +3,7 @@ import SimpleTextBox from "./simpleTextBox";
 function Info() {
   return (
     <div className="Info">
-      <h4 className="h4Global">Pourquoi souscrire une assurance prets ?</h4>
+      <h2 className="h4Global">Pourquoi souscrire une assurance prets ?</h2>
       <p className="paragrapheGlobal">
         L’acquisition d’un bien immobilier nécessite la plupart du temps un
         crédit pour pouvoir le financer. Le plus souvent indissociable d’un
