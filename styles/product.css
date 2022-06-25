@@ -2,7 +2,6 @@
     background-color:rgba(147, 215, 249, 0.1); 
     padding: 0 30px 30px;
     clip-path: ellipse(200% 100% at 50% 0%);
-
 }
 
 .productsList{
@@ -18,7 +17,7 @@
 }
 
 .product {
-    width: 150px; 
+    min-width: 48%; 
     height: 50px;
     max-width: 155px; 
     min-height: 130px; 
@@ -54,6 +53,7 @@
 
 .product2 {
     width: 100%; 
+    margin: auto; 
     height: 50px;
     margin-bottom: 20px; 
     position: relative;
@@ -81,4 +81,18 @@
     font-family: "Fira Sans Condensed","Fira Sans",Arial,sans-serif; 
     font-weight: 400; 
     font-size: 1rem; 
+}
+
+@media screen and (min-width: 768px) {
+    .productContainer {
+        margin-top: -400px; 
+        background-color:transparent; 
+
+    }
+    .product {
+        min-width: 170px; 
+    }
+    .product2 {
+        max-width: 800px; 
+    }
 }

@@ -30,10 +30,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/blog/changer-assurance-pret": [
+    "/pret": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/blog/changer-assurance-pret.js"
+      "static/chunks/pages/pret.js"
     ]
   },
   "ampFirstPages": []

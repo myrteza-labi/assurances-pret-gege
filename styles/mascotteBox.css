@@ -2,7 +2,9 @@
     padding: 50px 20px; 
     background: linear-gradient(180deg,#f9fafb 70%,#fff 0);
     position: relative;
+
 }
+
 
 
 
@@ -25,6 +27,8 @@
     padding: 60px 30px;
     margin-bottom: 30px;
     box-shadow: 0 4px 8px 0 rgb(172 186 200 / 10%), 0 6px 20px 0 rgb(172 186 200 / 10%);
+    max-width: 500px; 
+    margin: auto; 
 }
 
 
@@ -53,4 +57,10 @@
     margin: 15px 0; 
 }
 
-
+@media screen and (min-width: 768px) {
+    .mascotteArticleTheme{
+        font-size: 1.35rem; 
+        line-height: 1.5;
+        margin: 15px 0; 
+    }
+}

@@ -53,9 +53,6 @@ function Garanties() {
           title6={"Garanties chômage"}
           text6={" : Une protection indispensable et obligatoire"}
           href6={"#chomage"}
-          title7={""}
-          text7={""}
-          href7={"#test"}
         />
 
         <h4 className="h4Global">

@@ -54,5 +54,23 @@
     font-size: 1rem;
     line-height: 1.5rem
 }
+@media screen and (min-width: 768px) {
+    .Info {
+        padding: 50px 12% 0 12%; 
+    }
+    .infoMainTitle{
+        font-size: 2rem;
+        line-height: 1.625rem;
+        font-weight: 900;
+    }
+    .infoTitles {
+        font-size: 1.3rem;
+    }
+    .infosParagraphes {
+        font-size: 1.2rem;
+        line-height: 1.8rem
+    }
+    
+}
 
-
+ 

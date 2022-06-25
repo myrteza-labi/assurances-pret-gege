@@ -39,10 +39,11 @@ function Article(props) {
       <div className="enSavoirPlusCtn-v2">
         <a href={props.href}>
           <p href={props.href} className="enSavoirPlus">Lire l'article</p>
-          <span className="material-symbols-outlined orange-arrow">
+
+        </a>
+        <span className="material-symbols-outlined orange-arrow">
             trending_flat
           </span>
-        </a>
       </div>
     </div>
   );

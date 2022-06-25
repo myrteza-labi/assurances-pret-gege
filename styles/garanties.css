@@ -34,6 +34,21 @@
 
 }
 
+@media screen and (min-width: 768px) {
+    .firstSectionGaranties {
+        height: 350px; 
+        padding: 60px 30px 30px 30px; 
+    }
+    .secondSectionGaranties {
+        padding: 45px 12% 0;
+    }
+    .garantiesGegeBottom {
+        height: 250px;
+        width: 400px;
+        margin-bottom: 0px; 
+    
+    }
+}
 /*
 .gegeBottom {
 

@@ -57,3 +57,10 @@
 .social-image{
     max-width: 100%; 
 }
+
+@media screen and (min-width: 768px) {
+
+    .Footer {
+        margin-top: 0rem; 
+    }
+}

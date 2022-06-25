@@ -7,3 +7,12 @@
     background-repeat: no-repeat; 
     margin: auto; 
  }
+ 
+ @media screen and (min-width: 768px) {
+   .imagePret {
+      height: 245px; 
+      width: 245px; 
+      display: block; 
+      margin-top: 20px; 
+   }
+}

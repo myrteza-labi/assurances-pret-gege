@@ -10,3 +10,20 @@
     margin: 0 0 30px;
 
 }
+
+@media screen and (min-width: 768px) {
+    .SimpleTextBox{
+        background-color: #f1faff!important;
+        border-radius: 15px;
+    
+        padding: 50px 35px;
+        color: #4e6174;
+        font-size: 1.1rem;
+        line-height: 1.65;
+        font-family: Fira Sans Condensed,Fira Sans,Arial,sans-serif;
+        margin: 0 0 50px;
+    
+    }
+}
+
+ 

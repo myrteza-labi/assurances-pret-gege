@@ -212,3 +212,57 @@ a {
     line-height: 1.4;
 
 }
+
+@media screen and (min-width: 768px) {
+    .firstSection {
+        text-align: center; 
+    }
+    .firstSectionIndex {
+        height: auto; 
+        min-height: 600px; 
+        padding: 60px 40px 0 40px; 
+        font-size: 1.1rem;
+        line-height: 2.6rem;
+        letter-spacing: 0.05rem;
+        font-weight: 500;
+    }
+    
+    .gegeImgFirst {
+        display: none; 
+    }
+    .calculImgFirst {
+        display: none; 
+    }
+    .paragrapheGlobal{
+        font-size: 1.2rem;
+    }
+    .h1Global {
+        font-size: 2rem;
+        line-height: 2.2rem;
+    }
+    .h3Global{
+        font-size: 1.5rem;
+        line-height: 1.5rem;
+    }
+    .h5Global{
+        font-size: 1.3rem;
+        margin: 0 0 15px;
+    }
+    .h6Global {
+        font-size: 1.2rem; 
+    }
+    .paragrapheGlobal-v3 {
+        font-size: 1.15rem;
+
+    }
+    .enSavoirPlusCtn{
+    display: flex; 
+    flex-direction: row; 
+    justify-content: center; 
+    align-items: center; 
+}
+.enSavoirPlus {
+    font-size: 1.2rem;
+}
+    
+}

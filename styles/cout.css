@@ -87,3 +87,19 @@
     height: 250px; 
     margin-bottom: -100px !important; 
 }
+@media screen and (min-width: 768px) {
+    .headerCout {
+        min-height:245px; 
+    }
+    .ImageCout {
+        height: 245px; 
+        width: 245px; 
+    }
+    .firstSectionCout {
+        display: none; 
+
+    }
+    .coutGegeBottom {
+        height: 450px; 
+    }
+}

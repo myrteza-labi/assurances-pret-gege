@@ -37,7 +37,7 @@
 .partenairesLogoContainer {
     display: flex; 
     flex-direction: row; 
-    justify-content: space-between; 
+    justify-content: space-around; 
     flex-wrap: wrap; 
 }
 
@@ -58,7 +58,7 @@
 }
 
 .compagnieAssurancesLogo {
-    max-width: 33%; 
+    max-width: 120px; 
     padding: 0 15px; 
 }
 .partenaireImage{
@@ -131,3 +131,33 @@
 .button-slider-dot:hover {
     outline: none;
 }
+
+@media screen and (min-width: 768px) {
+
+    .partenaireParagraphe{
+        font-size: 1.2rem;
+    }
+    .partenaireTitle{
+        font-size: 1.5rem;
+    }
+    .titlePartenaireLogoCtn{
+        font-size: 1.5rem;
+    }
+    .partenaireMainLogoCtn {
+        width: 100%;
+        max-width: 1200px; 
+        margin: auto; 
+        padding: 50px 40px;
+        margin-bottom: 0px;
+    }
+    .compagnieAssurancesLogo {
+        max-width: 150px; 
+
+        padding: 0 15px; 
+    }
+    .Partenaires {
+        padding-bottom: 100px; 
+    }
+}
+
+ 
